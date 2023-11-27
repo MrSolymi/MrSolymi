@@ -29,3 +29,4 @@ jobs:
           template: repository
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Budapest
+          plugin_isocalendar_duration: half-year
