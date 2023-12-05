@@ -35,10 +35,10 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1485,6 +1485,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1572,7 +1577,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBAgUD/8QAKBAAAgIBAwQCAgIDAAAAAAAAAQIDBBEFEiEABhNBMWEUMgdRIkJi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAQBA//EACURAAECBAQHAAAAAAAAAAAAAAEAAgMEETEFEiFxE0FRYZHB0f/aAAwDAQACEQMRAD8AI7kr6Xq1c3a1ZJTXkaSaRw8sm0bi5Zedi7SSxJBJQAA/C/8A5D7ls1dQpJXNOGxGqzx2aeVkQFcbRzlE+SFz8EZA+OjLuyK1N2gtOKVJbaCC3NFEpLHaEzFkZJVihx63Kmf2B6U+sdm6np9Kvbt1pYhaYCPysq4yARkckE5GAce/66kwqHLg8WMRUaU6911mnPJyNF+a3eze+HjtTpeWm084kkNuxEztNIVG1JSDkoSAPrI4/pnQNJqWq2zRrVjOIUMcyOFli3AsrZPOxtysGBxneCCc5Smi9ka1dqzX60XkqwMQzREM3AycDIJIx6+um/23Dar9kmi86JdEU9mJJQQw3LJiPJwQql1B9bi+OFJ63FYcsaRIBFToR7SVdEByPGipektT6NTpUET8RoyqpBI4LxlBGxSRVZ1xtXDbTymGA3DPbWJJ7PltarYV4Ig0UUcYLIZQT5Jc43MA2EBPpXbAz1P5VIanUtaeiW662FjmNjCKoDSK0x3ZAaIxMQ3sBwDjbgfu62lOpTqXmeGWGPxFlP8AsvB5+zz95B99QS4qbfVU7dbuhW7MPifT7AWCVFjaNwyKJTgJJnG5QTlCf+kbBx1NeWzHoV2leRDVEQVknkf/ABTx+JN7sFds5ILbRzIdoO0kDdXXIrjSUqMrzzzIybmP65xyT6A+frGfXRO16hHeuXNTjSpWNl4ohXwy7WdUWQFcDMhcEsfTICdoIKYFHWv5Qbr/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Passing of the Age</div>
@@ -1582,7 +1587,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQP/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMEBRESIQAGEzEiQVFhkRRxgSMyQrHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ALWzhaeMLGXqGJdRISBgMRkkE+uR68dpbNJUU/UmqAgYFFZchnJ3yMkYx8+/CpQ3+mqqxIHrI4XVzqbGzSByApJOxAXtj34b6OprqqSjprY0WYJ1kn6q4fosDlgD3BIIBHzwA8VAIbe8kFQrPCoVjISGUZ/c2/8AfzxlXow/RViLHIKhYjMQoO4OBqHi9s4Hb84LHcRcIZK9a2alSOpnVKVzjV0sZKkAZO+NvPJ9eEHm6509shSNJknDUxihqHJO4Oy7dy2ttvyeAyeX4Y6S+Y6FPNPKWeWAt09SB2J8Z/kwlRtvNMA8WGyXm13CWmRIjDXKrIsUkfjjUeRPbcDPffiPTtb6qhhDXJaa4Qu0cUskmdIMhYqwAGR4cb9vfYnQXmqvhMDIY66qiDPIKcsMZDqcABgSdWRgjsuwHAUfmLme1Wi7CCop2muQSPpqsepmR2IOk+owSRt/k15lpEvN1hrJnhaZ/wBXoltYXDKAFxnAARm+5xt24PorvdKtHmqqdEk+liiiE4kLEBQra84AOrfuD9+ApGp4rdUxNXrJXzZhaSNtCjdSFVSDgeLBI7/JAf/Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Pure Completion</div>
@@ -1679,7 +1684,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2023, 00:07:48 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2023, 01:35:16 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
