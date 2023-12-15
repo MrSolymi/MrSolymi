@@ -1455,7 +1455,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 50 achievements unlocked
+                                            6 / 50 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUB/8QAKxAAAQMDAgQGAgMAAAAAAAAAAQIDBAUGEQAhEjFhcQcTI0GBkUJRFTLR/8QAGQEAAQUAAAAAAAAAAAAAAAAABAECAwUG/8QAIREAAgIBAwUBAAAAAAAAAAAAAQIAAxEEMUESEyFR8MH/2gAMAwEAAhEDEQA/AFrRqG5UXVErDUdvdbiuSR/umjYFsUGolKGaY7UCTgOOvBpKu2ASfrHXXYdkVCoWjTjCSnyX1OOvgndQQOXzkD5OhKTfVTsOcoCgVJD6NuKQjymz8jO31rTl0rUhD5/ZXEu7YEdFZ8HaHUIZLUR2lPkZS4h0PNDvsCO+kdd1i1S2p7keaySgf1cTulQ/Y08/D7xk/nocZMy3KkhSwlJdip85viJAG5xjJPXVzxYjtzKBUBwepT3G1tnl6Tg5fCgrQ+k1NndFV+x++zCHBUZWY1v3VFpFhxlvpcUuM4tpaUj8FjBPwQD2zpaX/CReEpVWhzJsF2IgJC2V4yknO499+utinPBlDjbqPMjOjC0ZxnqP0euosUVpEeU3TKm2ht/YtyE8JSP1yI+sdtSVrW2T7grdQII4kLKkx7bRxMzZ1WqD7sVDrktwJShtDyVq4U59gCefty0e3hV0y7ZqUwEhFTdQiOD+TLYwF9lKKiOmNADVuxm3Q5Vag08gY9FgZ4sex2x957atVyoO1F1JVlLKBwoRnkNK1VasHHEepZt5/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Lesson Learner</div>
+                                                <div class="unlocked">15 Dec 2023</div>
+                                            </div>
+                                            <div class="description">Complete the Tutorial</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1469,18 +1479,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwQGAQIFCP/EACsQAAEDAwIEBgIDAAAAAAAAAAECAwUEBhEAIRIxcYEHEyNBUWEUkRYy0f/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAwUG/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAAxEEITFBEhNRkf/aAAwDAQACEQMRAD8ANYaDckXVEr8qnb3W4rkkf7pRsC2IGRUlDMW7IEnAcdeDSVdMAk9hj71misiQkLRjjRJT5L6nHXwTuoIHLvkDudV28Rc9uxRZglvU0gtwBX46sOlGDkIxvnly3xrUZVVIrO4/ZWl2ZgOBF6Y8HYOQoyWqR2KfIylxDweaHXYEddB13WJKW1XLp61klA/q4ndKh8jXo/wMkJupsNj+UuOrr0OFKQ+rLwbwCPM9weeM74xqB4s07dZASA4PUj3G1oPy04OXZQOldJq2N3qu3H2MuPEZWcS37rpYew6ddQlxSqZxbS0pHJCxuexAPTOh3xPhK6+ZxyYo5BDFHStJShpYVxJ33UMbbnHYDVvjngyhxt1HmUzowtGcZ+x8H71qxCNNsVTcXJtobf2LdQnHCPjlj9Y6aNa63yT3FSXUgjqVSFeueNnKCOiZp2niHCyt55lZQGigDIxzPuRnY535HTNd8umrtmSrBkIk3UIpwduJlsYC+ilFRH1jR+1blM26HJWQZeQnHosDPFj2O2P3npqXOSDsi6kqyllA4UIzyGiapFYMOpIGZuZ//9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Returning Contestant</div>
-                                                <div class="unlocked">15 Dec 2023</div>
-                                            </div>
-                                            <div class="description">Play 3 rounds of Quick Cash</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+4 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1491,7 +1491,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2023, 13:13:29 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2023, 14:10:14 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
