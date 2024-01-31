@@ -1411,7 +1411,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCBQYE/8QALxAAAQMDAgQEBAcAAAAAAAAAAQIDBAUGEQAhBxIxURMUQWEVInGRI0JScoGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQX/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIDEUH/2gAMAwEAAhEDEQA/ABVY0C0WKSxPueBNlOc6sJaf8NDgT+XGMqO4G2AO+ra4Ux6JU4/gWdApQdbS8GZLq5DimldArmOEFQ7AHB9NQvOkqpCLSbQAGvhDDyP3qUpayf5Omipjse4aVSahNixkF9lC3VKbSVElHMUgkZCen31NUdmM1nKbQrdEci1qvMQ37Tp1QU+soYjtPLjKA3IQFA4JA2BUMnbJOue+6Taa6XMlUClzoEtlSUuMPPlYYOeUpUnGUnIIySQdumm3ZhwYk9TseNFLQ5SClpPM2TkfKrGcEjGPfSxUNp677vu+Q+2lKJdPmPvJA2SQOZH2UE/bSaFxOifEXN1NRrg4YWZWoq2/OMR/Iup3Clch5SOxI2OOuFZ3HQu1+XLoEq3KdCh+Yg5DLi0blAKEgKGOxCs/TSz8GboFOrYpk99aadMHy+oZfG7boB2GD1P6SdHilcVbSqlMaeqs0R32inIwedK9wSnA3H+HfU3L8Nx3m4lvzpoaNVZ8m+ZtOEIogsttoDxz+IchRI9sZ/rvob06FEtKm8S6q+tvxW0vQ46QSVJC1lIB9BkkYHXCSemtJcXEq36RClOUqah2QpOVLCwXHMA8qc4wBnt9d9Ari9cwmT26VAkLXEjp8WQsbCTKXu46cbEdAnsAPfSIY22US2f/2Q==" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Banishment</div>
@@ -1518,7 +1518,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2024, 23:07:09 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Feb 2024, 00:07:46 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
