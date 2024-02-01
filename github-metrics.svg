@@ -326,7 +326,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.41
+                            Average per day at ~0.40
                         </div>
                     </section>
                 </div>
@@ -1324,6 +1324,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1411,7 +1416,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCBQYE/8QALxAAAQMDAgQEBAcAAAAAAAAAAQIDBAUGEQAhBxIxURMUQWEVInGRI0JScoGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQX/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIDEUH/2gAMAwEAAhEDEQA/ABVY0C0WKSxPueBNlOc6sJaf8NDgT+XGMqO4G2AO+ra4Ux6JU4/gWdApQdbS8GZLq5DimldArmOEFQ7AHB9NQvOkqpCLSbQAGvhDDyP3qUpayf5Omipjse4aVSahNixkF9lC3VKbSVElHMUgkZCen31NUdmM1nKbQrdEci1qvMQ37Tp1QU+soYjtPLjKA3IQFA4JA2BUMnbJOue+6Taa6XMlUClzoEtlSUuMPPlYYOeUpUnGUnIIySQdumm3ZhwYk9TseNFLQ5SClpPM2TkfKrGcEjGPfSxUNp677vu+Q+2lKJdPmPvJA2SQOZH2UE/bSaFxOifEXN1NRrg4YWZWoq2/OMR/Iup3Clch5SOxI2OOuFZ3HQu1+XLoEq3KdCh+Yg5DLi0blAKEgKGOxCs/TSz8GboFOrYpk99aadMHy+oZfG7boB2GD1P6SdHilcVbSqlMaeqs0R32inIwedK9wSnA3H+HfU3L8Nx3m4lvzpoaNVZ8m+ZtOEIogsttoDxz+IchRI9sZ/rvob06FEtKm8S6q+tvxW0vQ46QSVJC1lIB9BkkYHXCSemtJcXEq36RClOUqah2QpOVLCwXHMA8qc4wBnt9d9Ari9cwmT26VAkLXEjp8WQsbCTKXu46cbEdAnsAPfSIY22US2f/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Banishment</div>
@@ -1518,7 +1523,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Feb 2024, 00:07:46 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Feb 2024, 01:34:38 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
