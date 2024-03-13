@@ -1319,6 +1319,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1460,7 +1465,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        122 hours played
+                                        123 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1468,7 +1473,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 12 Mar 2024
+                                        Last played on 13 Mar 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1477,32 +1482,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            31 / 42 achievements unlocked
+                                            34 / 42 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcABQMECP/EACoQAAEDAwMDAwQDAAAAAAAAAAECAxEABAUSITEGE0FRYXEHFJHBImKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxEEIRIxQf/aAAwDAQACEQMRAD8A5pw1gzf298jW6L1tvuMIAGlcH+QPmY4itrBdLX+Ztn3bXQko2Qhw6S6fIT8Dc1h6Zypx2Ra7qj9m4oJeT6A7ah7jmjTPOXdoG7ZKUFbryG0qRy54PtvI+aJ2YHBNdNdbrrfIG9VYtnGZNbVmpxdrwlaxvI5H53+DVJTD+omLVZu3bKm3m1MrClAgQfE7bEc0vKtTogWqFcgSU8+lmFZzoDGZVSA7f4lwJSmBKw3JQTPqBE/1NJvDrtG7wG/RrZ4j900unc/isQw8cZepSl9oIWy43KRBkQQdt5/JormzrI/E8Q2seoPu5S7yN1esZJzutLWl1BI06jMGY558/wCUPdZYNGDyKG2X0ONOo7iUhUqbnwf0fNXd4vFm/evbnIFYeBCmGmtAE+knaPFCGTdZdudVuFaYglRkn3q0YH1CuHZM/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFBP/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASMQYhQSJRYQcTFCMygZGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABwRAAIDAQEBAQAAAAAAAAAAAAECAAMRIRJBgf/aAAwDAQACEQMRAD8Agc9ut9RZoJqbalQpDLEqktMh5yfBXB99aX0+6Tt136zpbbfhWRUM0Ujq0I2M5Ckr3PbBxzo3abzJSUqwr3Kk7GAG5M84OrJ9OYoLjYbJWNcJjXw1Lwqki7lCqwbYe3BBz3PYaktZqwZZVWlzAfZGb5aVpLnNDRid4Vc7Q6+oDPnHOuaW01YpzOsRaEcsME+/HOqT1dXmw1kphf8AInnZvuPtBEYzkqh/oZ9v50QunUrzRI8UcaPghdq4C5xkY8ggdwc60ljsBggtprQkE/kwrMhkrokSN5JCw2qgySc8DVEtlfVWKJaQQ09O8mZT+QuWHpxtB8aH9IXSktk07VCFZZV+2s45jU/ux8nSMWm11UrzRdRRRwuM7RATIT5BOdMdfRwjkVW/gaD2YVyqJpaoyzSl5ImJxj05z41hVcSiJJEOMnBUnTWSmtFNTzLPcg6kFV/T7kEfJ5B/zQy7PTNUAUZcxgYyxyT86KjsFhB7umf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Elemer of the Briar</div>
-                                                <div class="unlocked">12 Mar 2024</div>
+                                                <div>Hoarah Loux, Warrior</div>
+                                                <div class="unlocked">13 Mar 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYIBAX/xAAsEAABBAEDAgUCBwAAAAAAAAABAgMEEQUABhIhMQcUQVFhEyIjJIGCkaHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGREAAwEBAQAAAAAAAAAAAAAAAQIRACEx/9oADAMBAAIRAxEAPwDKmrfZfhrm90wHci0qLj8U2CTNnLLbaq78aBKq9SBQ15GxsdDyGeSco8GcdFbXKkqIBtCBYSAe5Urin92n9be490Y7HBqBHgwpMZLzMZDqh5dlJSptB4gJRyIBFfdxAHS7JYzJRcE5vZkvHRn5UWZDyMVivqLjqIUi/UoUAqvkAijqW00bhxE6C2iOcd5enFoK1g/d7ouye90Df6dtD85jy8pxqyQlVAn21itfdrLOjd+3so3jHJokRkyWZUdUdbavYkGwfQgpBvT14dboYbwjKUqnS2G0sqQhDg/D4ISlRcuwE2n+q1n3DriNywZ6ObNdv91dw38VGAdxWS+kFJAcYcbJSqvkHpfbRdgDDki0W5U8SN24zJ4uSxCYmCQ60p4MR1ckNrT1Kz6EVd176zXkpIlTHHUp4pJNA9+99dW0vJQ0Lm8JC2230cE26VqQK60KHXv/ADqKyKo6n/yiClsCup7/ADqQ909m/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgUCBAcI/8QALBAAAgEDAwMCBAcAAAAAAAAAAQIDBAURABIhBjFBE1EUI2GSCFNxgaHR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAQDBf/EACARAQABAwMFAAAAAAAAAAAAAAEAAxFBAgQhEhMxMmH/2gAMAwEAAhEDEQA/APOfSfT9V1Bd6agpkIadwgcjgZ7fzpL1p08J+p7rBa4YUprX8lwMAuyqSWAA8kHvpf8AhnFBQXa63i6Tr8NSUvEZ5HqMwCnHvnWE1HPb7tW3NadVoGcyqqHJqCwbbu8gNk9/GhtR7r8mk0tOnbnHnM55RW6hayGZ0xI4fe7EDaRyFUeOBknznxrUqbRRLa6R0qnWtdPUkDr8vaRkKPOfcnvn9zYuNLGwjp0jaGBiXdshjgnJ5H+8amXLMlK7oVyBnHsO2kjAdMq2Ove2dIQ09OrNUV9S0rBfy4xtB+4t9ultffme2QI0iSJMFkYMSFLBAuAfpjGNAelb7S0tzglucSyQwwiFFPG1eckfXknnXTL1UdK3qkp5KOuNIyxgNGlPv34Hk7vr7am0hb5l2u+o8WtAlf6ryeuhZacsFUIQSF9uO51GucbLAxddsZyYxu5K+Cf602jrbTbuXSOo2Ald2Y1zg44z+nOjXVHU0Fyg+Hgp6eGNCxUxpzz7nzqgQ65n/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Godskin Noble</div>
-                                                <div class="unlocked">12 Mar 2024</div>
+                                                <div>Dragonlord Placidusax</div>
+                                                <div class="unlocked">13 Mar 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+29 others...</div>
+                                            <div class="description ellipsis">+32 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1513,7 +1518,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2024, 00:08:36 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2024, 01:32:41 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
