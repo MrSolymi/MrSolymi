@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    204 MB used
+                                    205 MB used
                                 </div>
                             </section>
                             <section>
@@ -1604,7 +1604,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        22 hours played
+                                        23 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1621,32 +1621,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            26 / 178 achievements unlocked
+                                            29 / 178 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABAYFAAIDBwj/xAAtEAABAwMBBgUEAwAAAAAAAAABAgMEAAUREgYTITFBcQcUFSJRI0NhgZGhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQID/8QAIREAAgIBBAIDAAAAAAAAAAAAAQMAAhEEEiFBBWExUfD/2gAMAwEAAhEDEQA/AOg95vtaI6sAcFL61ewluKkpjjmclXye9JPr5ZZfahIakLaVu3AFhKUK6gniSR8Cqi39x8nzKhk4HtwlCfxqUc/0KDXqVkGw4hVp2twRU8xykXBhK8Pua1jgEp40I/OdWhQaZWSemcAd60jtF41QbdLUxaoKpO7WUKkvYaaGDgkZ9y/1jNLdm8Wdqb9emY6ZMZERxZChGjFKcYP3FHJPLkKwNQMbtpx7nS2mIO3cCfWTJa77QeoX6a95rXdYsZx5tsZSFpThagByOUjv/FK8m+2ISHJdx2hKmnloktNn6q2jjkkDpg4wRwyaOkNJdQptfuQoEEfg86EiWW2RiCzb4qCOoaGanv0FHEEk/ue5ST5FiQQAOvvoYiRfpMO8X157ZiyyJaF4O/kN6dSupI5Dj2qa2d2evSJTUqfMaj6CCGmkBf6OeH+05NaEABIAHxWUKFNrqF1FK/AiLLllze3c/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYFBwEDCP/EAC0QAAIBAgQEBQMFAAAAAAAAAAECAwQRAAUGEhMhYaEHMUFRcRQVIiNCUmKB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHREAAQUAAwEAAAAAAAAAAAAAAQACAwQREhMhQf/aAAwDAQACEQMRAD8Af9X+JkSJA2Rpx5ybyGqiIRV/iBfz64QdU+JOdZvT/TI0NBARZ1pbgv8ALE3t0GBqaiR6SmlrnWjM36oqK4WhaL+ihgXbt1xCtnumpK6ppkr0EYRytTPGNrkDkFQclufIm/XB4675BzJwK0lqOI8ANKhwWlf8QW+BfGKhzTqrSo6qxspKEAn2+cB53n1GlHEaed1PPcyzKQ3sFAUW74UKDN6syxk1cjRifc4lckFbAc+vphc1TqYMdpPxGhv9zyOOAfVPa3SaPUVXBmVbxJafaqNKG/KO112ixsLemFjO5It1NJTkkSqS4vc3B8yPT/cdI6iocuzUN9wo4Kg2tudBuHw3mMVlqbS+T08TyUCyxSj9nEuvfn3xmwW2nAR6nzUydIPirBYWmkEnDZ3I5mQ2A6Ae2D4qc3DStubsMGSQ8MDGu9sNLy5DawNX/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Purple Split!</div>
+                                                <div>Cashing In</div>
                                                 <div class="unlocked">12 Jul 2024</div>
                                             </div>
-                                            <div class="description">In Rivals, beat a Rival without receiving a "dirty time" penalty.</div>
+                                            <div class="description">Earn 1 Season Completion Bonus.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFCP/EACsQAAIBAgYBAgUFAAAAAAAAAAECAwQRAAUGEiExE0FhIkKBscEHMlFScf/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAAL/xAAfEQACAgIBBQAAAAAAAAAAAAABAgADERIEIjFBgcH/2gAMAwEAAhEDEQA/AA+iaLTdZqSlbNHRMsZHE6+Qod3FiFPI9emb6Y0jkGmH13OmQSVJyqAq6ySsPJuLBQoP9Tc8nmwxJJ6mWIPEyMPgO5TwRcff1ws0pmO6Oeco8hlMSuoIAdtwFva1zz74ALq25lqYsTQHBBGPZ+Tov9PqjNhTVdHnVFLSvSykRb/mjJO23tYfjDE1ZVbILe+BWjsyzGTL5DPCtbUxt4W2nsoLE8nrn7YTUkvlpzJPFJAFAvv5vx2MPU2yAybkUtXYUPecc0eXUdTM0Us+xm/bLYkX9x/GHun8tp6GKlpIiEMr2eT1t2zfgYCUUcaV8b2AKm4sbX+mFKVsklYkVOrSSBdqqouWIF7D/bDGD4rLeZwV6gJSc21imUhxlVL4aQR7PiYrdh83HfFjz3fG3o7WNPmdPA1bLsKSjzKoSxIFwOTe3X1GIZWUGYSPHTwSI0aKsZU+hB5567wz09Ll60Bp56eAOrMxXaQQ5PIHN8Ej6qFERgWYkz//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABAYCBQADBwj/xAAqEAABAwMCBAYDAQAAAAAAAAABAgMEABEhBRIGE0FxBxQxUWGRFiIz0f/EABcBAQADAAAAAAAAAAAAAAAAAAQAAQX/xAAiEQACAQIGAwEAAAAAAAAAAAABAgADEQQTITFB0RIUcbH/2gAMAwEAAhEDEQA/APQyYJ9qn5MgYFES5rURrmPqIT0CUlRPYDJpUleI+kRp4iORdVDilbUExCErPwSc0gM52hMimN4x+UUOlYI5HQ1thz25TQWkONHqh5OxQ7iiAbi4Fx7jNV5mT1knEOJOPpJ19+Gp2IsoCnI7jCiUlrda+fQ+9K72rzn3pE1+Sy5pyEEcvlN2CgLklRyT8D060C7wnDWomShLivS6kXqP4vDbiPRmm0ojvf0bQSlK+4BzQmwoZiWJ14vpNVce6IEUAEc21ihqmszpEcrCZnlLB1D7bimzt2gAWzYWz3qy8PNemJ1MvxpMtTUXat4OzlAAE3AAxk2+r0c3wFpZNmoLX2f9q+0vg2HDQQ1FZbvn9AaRTQqAL/nUNVrZhLW3+9z/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Bouncin’ Buggies</div>
+                                                <div>Week Complete</div>
                                                 <div class="unlocked">12 Jul 2024</div>
                                             </div>
-                                            <div class="description">Get 40 Air Skills in any Offroad Buggy.</div>
+                                            <div class="description">Complete a #FORZATHON Weekly Challenge.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+24 others...</div>
+                                            <div class="description ellipsis">+27 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1657,7 +1657,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2024, 15:11:50 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2024, 16:08:11 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
