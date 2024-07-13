@@ -1609,7 +1609,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        23 hours played
+                                        24 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1617,7 +1617,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 12 Jul 2024
+                                        Last played on 13 Jul 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1626,32 +1626,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            29 / 178 achievements unlocked
+                                            31 / 178 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYFBwEDCP/EAC0QAAIBAgQEBQMFAAAAAAAAAAECAwQRAAUGEhMhYaEHMUFRcRQVIiNCUmKB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHREAAQUAAwEAAAAAAAAAAAAAAQACAwQREhMhQf/aAAwDAQACEQMRAD8Af9X+JkSJA2Rpx5ybyGqiIRV/iBfz64QdU+JOdZvT/TI0NBARZ1pbgv8ALE3t0GBqaiR6SmlrnWjM36oqK4WhaL+ihgXbt1xCtnumpK6ppkr0EYRytTPGNrkDkFQclufIm/XB4675BzJwK0lqOI8ANKhwWlf8QW+BfGKhzTqrSo6qxspKEAn2+cB53n1GlHEaed1PPcyzKQ3sFAUW74UKDN6syxk1cjRifc4lckFbAc+vphc1TqYMdpPxGhv9zyOOAfVPa3SaPUVXBmVbxJafaqNKG/KO112ixsLemFjO5It1NJTkkSqS4vc3B8yPT/cdI6iocuzUN9wo4Kg2tudBuHw3mMVlqbS+T08TyUCyxSj9nEuvfn3xmwW2nAR6nzUydIPirBYWmkEnDZ3I5mQ2A6Ae2D4qc3DStubsMGSQ8MDGu9sNLy5DawNX/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAArEAABAwMBBwMFAQAAAAAAAAABAgMEAAURBhITITFRYXEiQpEVMkFygbH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAEQMhBDESUWHw/9oADAMBAAIRAxEAPwCgmxME4B8GlL8cpPEYqisE2NfbLGuEUqbbfHpKh6VEc+PnxSq9TWIanDMbloQhZQpwxl7Ax7s4+3vyqknJS/EmS3wPVgRK41Q62qfQ4yLoxvbe63JbPubVkUPKgOsKw6gpPemg4Ori5UjdRUVXC2WRq3WhxsQWnG1IjOk7vCVhZSDjIzWMbWbiNYoVPWu3wFxnt9FUsrO1u8bYGcKPAbIHTvRoURn/ADrQF0s0C7NhMyK0+RyCx6h+quYrJ5+Mmfbd0Rfq5pEcpodTC168sdntDUqS0tSlyVNBcOIWFbOMkuJOBnPTPmq+y6vsOo0hiDcEqdIyGXBsOfB5/wArk990RNlIR9OvkwoaBDceW4pxKOwP4+KT6ftNy0/eWpN1hOFprOHYiQrORjj0HHpmj8c5MWyxPz8ILKiPqqn/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Cashing In</div>
-                                                <div class="unlocked">12 Jul 2024</div>
+                                                <div>Colossus of Roads</div>
+                                                <div class="unlocked">13 Jul 2024</div>
                                             </div>
-                                            <div class="description">Earn 1 Season Completion Bonus.</div>
+                                            <div class="description">Reach Round 10 in the Horizon Road Racing Series.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABAYCBQADBwj/xAAqEAABAwMCBAYDAQAAAAAAAAABAgMEABEhBRIGE0FxBxQxUWGRFiIz0f/EABcBAQADAAAAAAAAAAAAAAAAAAQAAQX/xAAiEQACAQIGAwEAAAAAAAAAAAABAgADEQQTITFB0RIUcbH/2gAMAwEAAhEDEQA/APQyYJ9qn5MgYFES5rURrmPqIT0CUlRPYDJpUleI+kRp4iORdVDilbUExCErPwSc0gM52hMimN4x+UUOlYI5HQ1thz25TQWkONHqh5OxQ7iiAbi4Fx7jNV5mT1knEOJOPpJ19+Gp2IsoCnI7jCiUlrda+fQ+9K72rzn3pE1+Sy5pyEEcvlN2CgLklRyT8D060C7wnDWomShLivS6kXqP4vDbiPRmm0ojvf0bQSlK+4BzQmwoZiWJ14vpNVce6IEUAEc21ihqmszpEcrCZnlLB1D7bimzt2gAWzYWz3qy8PNemJ1MvxpMtTUXat4OzlAAE3AAxk2+r0c3wFpZNmoLX2f9q+0vg2HDQQ1FZbvn9AaRTQqAL/nUNVrZhLW3+9z/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcBBQIECP/EACoQAAICAQMDBAEEAwAAAAAAAAECAwQRAAUhBhIxExQiQWEHFTJRcaHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFAAT/xAAgEQABBAIBBQAAAAAAAAAAAAABAAIDEQQSMRMjQYHw/9oADAMBAAIRAxEAPwAj3HrXc7aVkpXKntqqQWQ8XcGlK+Qxzwp845+tWFPq2KnaFyy9zumJk9qncVkYg5GSe0juK4xggDxoBLUdkvXq9jupUwvbLXWESFWwCwU+RyT5Jx+NE/R6x9T9Oett8HrGtM0fpzNktjBIBXDANx8tMLDVtcnveGVHLHQr2mF7/bd56drbrPPFHDEyvKBIQI3PHax8+T/XOg6ULKdxr1ZCkEHyWFvMSBcgHH5H19aj9tFWnHFNtlmq5kEwjmDCMODnh1JUgHwHXWVjcaiT+xl2R4QAsc80knccDlgVUD4sQBx/f1omyPZXUUvIijLu2fvCVW71Ytvrvt8wMkisJpbBJLSFhk/7J0QfpfW2reIp5LMlmvZWfDOspUvnn45+wQRjVT1tVlV4dwi7mBPpuD4XH8f+6BGjmjqivD39pk9RwXJVj9Ht8Z8/nk86GOTghV8iA7HZdIdZUd42Vq24bPuG5TSQEKsaWGBdeTznKk4/zxrSu7PZtzWLpuN7uWQyiNgAIwQMoCOcZzzpL7Ru+5xWIIKVi6Gd1HpJO4Tz4wc5Gn3XlMkEaylRMqgEr4zj61pDY1K5BBtyv//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Week Complete</div>
-                                                <div class="unlocked">12 Jul 2024</div>
+                                                <div>Welcome to The Eliminator</div>
+                                                <div class="unlocked">13 Jul 2024</div>
                                             </div>
-                                            <div class="description">Complete a #FORZATHON Weekly Challenge.</div>
+                                            <div class="description">Play your first game of The Eliminator.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+27 others...</div>
+                                            <div class="description ellipsis">+29 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1662,7 +1662,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jul 2024, 13:07:00 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jul 2024, 14:13:04 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
