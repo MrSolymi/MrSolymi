@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1211" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1180" class="">
     <defs>
         <style/>
     </defs>
@@ -1361,7 +1361,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            1.87k hours played
+                            1.88k hours played
                         </div>
                     </section>
                 </div>
@@ -1465,7 +1465,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        38 hours played
+                                        39 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1482,32 +1482,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            60 / 178 achievements unlocked
+                                            64 / 178 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgQGAwX/xAAsEAACAQMEAQMACwAAAAAAAAABAgMABBEFEiExUQZBcRMiM0NhYoGhseHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFAQT/xAAkEQACAQMDAwUAAAAAAAAAAAABAgADBBESIZEFBkEiMTJh0f/aAAwDAQACEQMRAD8Agp/UMcV7xNNONn3QGd3RBHj96wiv9QuoSI7aZ40Uq01wxVVJPBJ+OK6+m6Do0NqkqgTzmQAQ3D7265bAwAM9e9M6tZy3am1vJrpAjcIjLtQj8uP8rma8YNpziVrLty6uKa1j7Hx5I42+jFHhkLxym4lFoijfHDOgIPGfrkdZPXt+NYJqETxsLON0hLBC27fk56LZPn4qS121s7eRoZLty4AVxHg5Pvkns/xSGnaqLSeKMu4tUbcEHPOMA480aEtuTmBdWdC3YjSVI2+QJzxzKC5upIZt30bPFjO9eSKctvVk2k28l3ZTRPOFKIZBuKE8Zx/X60ZiwAMUneWEE/20MbnyV5rGoKSGEZR6xXSm1J/UpGPziQkty00ruTlicg/PJNCo5ye6q20K0JyEZfhjS8np+MHKTMF8FQaeMCSnYscmf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QALBAAAgECBQMDAgcAAAAAAAAAAQIDBBEABQYSEyFBUQcxYXGBFBUiUpHB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBgAF/8QAIREAAgEEAgIDAAAAAAAAAAAAAQIEAAMRISIxQVGBkfD/2gAMAwEAAhEDEQA/AN51xBLtRGZzZVBJPgDFxinNxb15ANxS/UDzbxjGzGSoq8hrBSRXrSkkSxHpdgSv8d/pilLYFS4BNJOpap1hq9khF+WSwH7FHtf4A6/fDspqRaSkgp4wRHEgRb9wBb+sFeicpy6k09TRV8WXJIqcch3IHJAtuAsGv7db2NsQagkhmm2xoqGI7FRBYbbdvi/X7nCMNsMcjfmuxPiFLa3FbjjVK/WGqINK67nlr8paOVUaJi6EO9ugZW6gfG3t74CajXlIEiloxULULUcjyM5MsntY7rAKB16ecdFZzTQajhpqXP8ALYaqaqkWGSJU3pHMYy1gexsD1FsBtZ6JaZpqiVZ6WuRmswT8Sf0C3bp3+b4WeO1w6butblIi7XrVBeW+rsG6tXhlg5WEkZ37ySqEBWv5NhcWthhadzD86yWmr9ixtMu5kV920/7zgfn9F9OGoheJ6+ONGu8fKG5B4uRcfbBZp7TdFp2gajyxZVhaQyHkcubkAe5+gweHYuWGOTo/teqFOl2pCAAch8ffuv/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Danish Hasty</div>
+                                                <div>You're Gonna Need a Bigger Tote</div>
                                                 <div class="unlocked">17 Jul 2024</div>
                                             </div>
-                                            <div class="description">Unlock the Brick Challenge 'Danish Hasty' then maintain 200mph in the LEGO® F40 for 10 seconds.</div>
+                                            <div class="description">Complete all 'Collectable' Brick Challenges.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAgYH/8QAJhAAAgEEAQQCAgMAAAAAAAAAAQIDAAQREiEFEzFBImEygVFxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EACERAAICAQIHAAAAAAAAAAAAAAECAAMREiEEEzJBUWGx/9oADAMBAAIRAxEAPwDnpvFVTqzkffxFUF0CMnOPvgUgmd0sGneVUmEgQRFSSQQSTnwMYHHnmlrXcrLjJ85BBIINPVviLlErq7TYxPtpJK7LCw2B1I4z5A80csBnmWO2K6E/lsMn9eqQ9E6reSW7LcTxvGG1DXAHH7PmiLLrMcA7Xc78sRKRy9oL8c5w3849HH+VBrCGwZuXhqmq1qSMefkxt6skM5Z3EjMcsB6pj0eTp3YuGu4ri4laNljSI66Pxqx4OR5yOP7qYbWNs7Amn0Dxw2qrFGiufjkClZ6mWmwrsYvjtnFsDd4RBnSNSct9k0NEgMu+oXPoUXduZWJyTngfQqIk5FTVcSltz2dRzP/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQIDBAYHAf/EACsQAAEDAwMDAwMFAAAAAAAAAAECAwQABREGEiEHE1EiMUFhcaEUQmKBwf/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgED/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAAxEEIUKhEhQiUf/aAAwDAQACEQMRAD8AhQy860kyI62VnPCj9ePxTpbBKgCDt4ODnB8UrRqZd7s63ZDwSgrU23gbVOoGOSff6cYpT36hu9NWe3251+RnbtbQQhAwCTnwB4805XUFcMTt3EzUeWQBv1GS1XO1RVhlh+e7CMuIxKbVtU3JeSyc+BuwD/VWJOg7spIUkRSCMgh4EGifYqHIQcUWniYOtGtUW60bI1tjLejo7YdWkBzb7JIGPXgAZGRUHSmqxAulzdXCdfvj7CnG3FqG1pvG4qUfnJwT9gBxWoqsduKShUCGUjjBZSf8qu3np9BnPuSIbq4bqmu0EJSC1tzkjb/LjP24qZZLiMBhKiptOHy6kiYpqrUyJslhYbh9pS1KWhLCFBWSMngAbs5/Fap086nWljTMGDIRIXKa3NJQnafSDwBk/AI4qg3rpDqlMl5cJm1yG1uKWnsyC3sSf2hKhj4FHum+k7rpuNdZF+0+p9xwtNNM9pD5AGcuJwcfI8VpFmMAzo505+lH5tmf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>#FORZATHON Sweep</div>
+                                                <div>Swamp Gas from a Weather Balloon</div>
                                                 <div class="unlocked">17 Jul 2024</div>
                                             </div>
-                                            <div class="description">Complete 1 Weekly and 7 Daily #FORZATHON activities in the same week.</div>
+                                            <div class="description">Collect all Alien Debris in LEGO® Valley.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+58 others...</div>
+                                            <div class="description ellipsis">+62 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1518,7 +1518,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2024, 18:10:22 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2024, 19:07:30 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
