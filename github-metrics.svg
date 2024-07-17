@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1180" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1195" class="">
     <defs>
         <style/>
     </defs>
@@ -1465,7 +1465,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        36 hours played
+                                        37 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1482,32 +1482,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            57 / 178 achievements unlocked
+                                            59 / 178 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwcBBQgG/8QAKhAAAgEDBAECBQUAAAAAAAAAAQIDBAURAAYSITFBYQcTIlGRMjNCsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBQT/xAAhEQACAwABAwUAAAAAAAAAAAABAgADESEEBVEiQXGBof/aAAwDAQACEQMRAD8A0PxhLxkeZ/HWoljWnSdmbirkAaDTk0UU5PJkY5TPofbVZXXy3yrEldIYZAf21cM2fTOM6YsqnCYSozLqiBlSEPK5I+UpyzDwBotDT26raRo3BWMAknoYOqPc247JQ0EsVTLFSwMpBklkAbPsNLi2bwt9wvMdu2/XTTyPG4YmPijADPk+T9utBZ1yk4h0TSO131IbLFz7k7h3VWJXXe5rUXGOGOrKvHPJzjEeAQyqT9BGSCAMDGuI+I2+66ezrSWy8FqmV+JaCcKUQfcjvvTZuNjttwp6iCpo4miqAVl4jiXB85I79BqupNl7conDQWaiUjwWj5f3nU49MrWi1jyP2VF7gyUtQijnOfcec+Zn3bthqbjUSmpirbpWOv0rCxbicdFmPpn30xtofCswyw1W4pjIyEMKWL9IPuf8/OmzAkMEfy4Y0iQfxQBR+BovRHWtRfxxJ/qIxjs//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAgYH/8QAJhAAAgEEAQQCAgMAAAAAAAAAAQIDAAQREiEFEzFBImEygVFxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EACERAAICAQIHAAAAAAAAAAAAAAECAAMREiEEEzJBUWGx/9oADAMBAAIRAxEAPwDnpvFVTqzkffxFUF0CMnOPvgUgmd0sGneVUmEgQRFSSQQSTnwMYHHnmlrXcrLjJ85BBIINPVviLlErq7TYxPtpJK7LCw2B1I4z5A80csBnmWO2K6E/lsMn9eqQ9E6reSW7LcTxvGG1DXAHH7PmiLLrMcA7Xc78sRKRy9oL8c5w3849HH+VBrCGwZuXhqmq1qSMefkxt6skM5Z3EjMcsB6pj0eTp3YuGu4ri4laNljSI66Pxqx4OR5yOP7qYbWNs7Amn0Dxw2qrFGiufjkClZ6mWmwrsYvjtnFsDd4RBnSNSct9k0NEgMu+oXPoUXduZWJyTngfQqIk5FTVcSltz2dRzP/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Master of Many</div>
-                                                <div class="unlocked">16 Jul 2024</div>
+                                                <div>#FORZATHON Sweep</div>
+                                                <div class="unlocked">17 Jul 2024</div>
                                             </div>
-                                            <div class="description">Apply 50 Car Masteries.</div>
+                                            <div class="description">Complete 1 Weekly and 7 Daily #FORZATHON activities in the same week.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQADBgcIBP/EACwQAAIBAwMDAgQHAAAAAAAAAAECAwQFEQAhMQYSE0FhIlFxgQcUFSUyQtH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAESEDBBJBExQxcbHw/9oADAMBAAIRAxEAPwBWqb9SqnFK0LSyJjwSP42J+YBG4zng6h3UNmq4ZJauEpJTRsUlZJAWQehK84+2ifV7GNaualgk8axxyNLGpXxlWxkNjVf1F8jkqJnE88jnBYjfJxo87Pho02ijK/cYuU4kVhGwdsngcjT9ls81TU+FQcsO7vx/uuSnieuJcmOIJySf6n2OiNopUa801FV/mGE7KEAB+EMdj6Df21PNSaGZo9HqheTYFWL7+I/1FWXuruVUt6aqlqSxPidGIjGf44xjGNRktMs5SIIhHxFSu3PqNa3kpRkjn0ydAL50naLyv7hQQu44kVe1x9GG+g6Qu4DeuEC9juZxjC1RjMahVYEOvcdmHIwOfb66nv4adOvW3Ba+40syUsIDQGQ4ZnB2JHoAPvqxLT0XZbUO2kogN8ksxYk/Mk6OxwiPCooUDYADSXRqXrb9nyoo9n97T//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUEAQf/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEBREhABJBBjFxEyJRByWRYWKxwfH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBgT/xAAoEQABAwIDBwUAAAAAAAAAAAABAgMRAAQhMYEFBhITInHRYZGh4fD/2gAMAwEAAhEDEQA/AMTbHa/jWtmP+mmFD6TjSKQ3W+oKm1CgIK0pQlNttuU37knF8nHHbRWtRqnNaXJ6EfjTIzbnpKTKQEqV+4G9sXFx/mqx7arDCSp0xH737UQizdfUEtiZrXGiEkY1aZpym20OOp2IV2KsXtovRp/VsBpEepUiE+4te0OsSNivFim3Hzr0e4m0aKJbJaltOpUAD7dliFDycfjGp663qT1hkAQMCTnoPNNW+7p6S6TicQBEanxQuVWZAltU53p6o1Ihu20qTsbazm17AYPcjU2girPMrZpkyDQ6c4pTkdt1JfcdFzuKTgcEDObY09rsRt2KEwH3I0tCgpDyTkEceNHK5Tp811DsFcSM6yoOslSCUpc3AlVhwQBj5Gpw7RbuVcy5Mq9ctBlS4sHGBwW+CfnU51ynSyllKfXRNqCFrKUurQ3YgEjA+QMDP9aLUn6qoeqAEmK6tp1JAShOUODhI7kH+dWZXRiZ8+TLly/TXLTZ9MVvYFG97puTtzc899WqH05SqIn7dEbQ5y6r3OK8qOfxrE7cW/AUxPYR91vQ08VhQw7mT4r/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Brick Built</div>
-                                                <div class="unlocked">16 Jul 2024</div>
+                                                <div>Elementary</div>
+                                                <div class="unlocked">17 Jul 2024</div>
                                             </div>
-                                            <div class="description">Discover the LEGO® Speed Champions Barn Find.</div>
+                                            <div class="description">Smash all Bonus Boards in LEGO® Valley.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+55 others...</div>
+                                            <div class="description ellipsis">+57 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1518,7 +1518,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2024, 16:08:09 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2024, 17:10:36 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
