@@ -1455,7 +1455,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        67 hours played
+                                        68 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1472,32 +1472,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            96 / 178 achievements unlocked
+                                            98 / 178 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQCBQYH/8QAKxAAAQMDAgQFBQEAAAAAAAAAAQIDBAARIQUSBhMxQRQiUXGBIzIzkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAIREAAQQBAwUAAAAAAAAAAAAAAAECAxESBDEyEyFBcfD/2gAMAwEAAhEDEQA/AOf+LbjqcLjiVuNpupF7G1VcTVtRaclOSIyyHPxg4Ddu9u9DZS5JEhJeaQ+VqLkgOglQx5QAemDn2qStNlxIipi4b7sdKSsvKB22BAv+yK3O1TpFu6oLNBi3JU3838peQuLJi0BT0CPy+mFKTn+1OZxlO8PyoLTcZdvM82g7j7E/b8VgpOuyH2xZ1TTJuEpBtf4FF0rUpCH3VSgtxgowpwkFJHcDv6UHySOTkHCNvEBDeQ9IWhO5Ktl7g2BNarUuOtYn8LN8PyHIaNPZb5I8n1NoINgo3IuQDisNHkmNJQ8LHYcg+ncUlNeVLfWpI2tlVwO9Z1jtSvWpvctHJEWKgXI3DoE9f8wKSVqTjrm1lvYg9cXJpVuNfKr000zt6Wqnsllex//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUHBAb/xAAqEAABAwQCAAUDBQAAAAAAAAABAgMEAAURIRIxBhMUQWEiUZEHFkJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/EAB4RAQADAAICAwAAAAAAAAAAAAEAAhEDIRITFCJB/9oADAMBAAIRAxEAPwCmwY6Y7KUIIwB2CRQ7iesZ0aFdb9bLHBVLu81qKwnQLi9qP2A7J+BUhvv6rt324OQ7KuTFgoZUrkE8XXyP4pKQSnX9dHJpL8gdsMrvRKM6lLssMKeaTIUCoMlYCyB2ePdCu82NbIDrz7gS22nKjv8AwfnVRyCy/fxIcTFTb2GFqT5nrFKcWob2rjvYGVE/etHiufd7zHVC5BgssNvvMlzkVqKiNHH1pBAOfn3rP8um5E9NgHIh8QeMnP3DLmOLF2bxxhm4NpUmP9QUFIQnXIED47zmuS9XIlz5NxZiha/NLzgbb4oSVKzjiOkk6wPajT4fnyCiEnmydjIxxNMrbY1ttgLUUg7Vg6NRbkA1lEceDp7MiDOss1/063zkKJPeQSDg5wcYODndbZTLsKTCLMpL77EZcdxz2Wkk4HxjOfxShNti+ak8ApYOjit4AbrFdF0/Ynn9cn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Made the Cut</div>
+                                                <div>Seasoned to Victory</div>
                                                 <div class="unlocked">22 Jul 2024</div>
                                             </div>
-                                            <div class="description">Reach Round Two of the Island Conqueror.</div>
+                                            <div class="description">Complete a Seasonal Championship on Fortune Island.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcDBAACBv/EACwQAAIBAwMDAgQHAAAAAAAAAAECAwQFEQAhMQYSE0FxFDJRUiIjM2GBsdH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAABBQb/xAAeEQACAgICAwAAAAAAAAAAAAABAgARBTEDEgQhof/aAAwDAQACEQMRAD8Ak6AvM3UFhJqZGlqaZ/HIx5fbKt7459tELS89Vcrt5fCtHTzrTw/czBR3En3OAP20rLLWS2NKqrt1Y8oKFVghl7GGQ2HHoe3bY86mfruuhomoqeYI8pMheSAZLnc5I23zwRpriyA6qDEH8DszMuj8jS+Jp2vMtsUOZ4olmkbH4EDE9oJ+44Jx9NWxS92e1TscbjGl5Zesrjb56iWWgguD3CSOR5T+UxPaFbtGMNjYAAbfzroqXqu5VU/bTQRShWYBFUBmYA7YyNtGGRSrMC+OcGhFRV24OplgkML+qqefTceuhFfHXQVDoHSoVTgNIO0sPbnjR2NnQCFgMcAn6a1hcSRTKS3k+UluPYa55XK79zYDACELb1bWJZI6O8UsVXb6ZXEFPUH9F2XAdcYJPGM7asR19aJFuBLQy1DCQSOMltvmGdx/WhdJTLHCyeND5FIOTkEc8f5rC8oZVCjyAYwDjgnbUbkJ1LLip//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBBQcD/8QALBAAAQQBAwIEBQUAAAAAAAAAAQIDBBEFABIhBhMxQVGRIlJhcYEkU4Kh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQD/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESESMRNBof/aAAwDAQACEQMRAD8A4B2CrfteLaU8FakqCD/Kq1KJRZJUlDciP8za7q/QjS1gob2SirmsPs95RtcfulJFWbTRIVd1zxfGisI9MmrWluShqWsdxSHW0/EBz2+Kqgfqb1Oatq5S8NdoJXWPke8J1SmOltDWUfjL+R9PcbPP3sad8V1NKfa3qZjyECgXI7te4OsnGHLpLjgZZ7iQQV8KT5iv81azs81F6di4iOAp1hzeiU2miaJNH3/rRVvZe4i9REwbGZKbAYjwNyRED4cUsAg1fIv0vTL0jkERGZmXlhUlyOEpab/efWaF1+SfsNE5TpR9DSzEKVkpI2qV4fnQfSeMnwkLbnsltCV70qCxV1VjWN6shxGBS6tj1GhGXMx1633VFopYJcN3SfAHyA4GhpTz7I3tLCxfJ8dFYeLHhmQlAP6hzuLS4d1qP11Yv4ttxBLKu0DyaPHtoAsXlCNWSN9z/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Hunter Gatherer</div>
+                                                <div>Not Just Straight-line Speed</div>
                                                 <div class="unlocked">22 Jul 2024</div>
                                             </div>
-                                            <div class="description">Find/Smash your first Treasure Chest.</div>
+                                            <div class="description">Earn at least 1 star at a Trailblazer Gate.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+94 others...</div>
+                                            <div class="description ellipsis">+96 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1508,7 +1508,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2024, 14:15:49 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2024, 15:13:16 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
