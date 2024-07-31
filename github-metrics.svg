@@ -1361,7 +1361,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            1.92k hours played
+                            1.93k hours played
                         </div>
                     </section>
                 </div>
@@ -1465,7 +1465,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        89 hours played
+                                        90 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1473,7 +1473,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 31 Jul 2024
+                                        Last played on 1 Aug 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1482,7 +1482,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            123 / 178 achievements unlocked
+                                            124 / 178 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QALBAAAQMCBgAFAwUAAAAAAAAAAQIDEQQFAAYSEyExByJBUZEUgcEWI3Ghsf/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAAIF/8QAHhEBAAIBBAMAAAAAAAAAAAAAAQACEQMEISIxQVH/2gAMAwEAAhEDEQA/AN3uWy/K2Z0+x4OBwtytveUhZnhEAGcH7w6zbqdTrNsS+9CilAIEwkkkkmAOO8YXmzOl4u6nE1aV0dMkBbdLTPbYIPUkCVd8iRhpZ9RNgPMehm61UrxQ/cqdlQ4869PrGDVDdrfc2Cu31rlXp7LJCgPjHKNrudttzla9c0bj6TpYQpkOGZMiVSlMcckE+2HDwXzgLfnY1tyJZoLm241w6XP3EwoSnvmDzx3gtvsAYJczb4gOXS5ut0tZV1KmQpolRKEkT1H2/vCdcc2vChS23SbSmjCnA8EEJnmEgSR6SVfaMXqjLVsTV76BrIUVFt06kEmex64CXuxvqYfXRNsJK06EstkJSB7/AO9Yzzci4jStYs3R5uvZU22ozqJJMAD8/OJclUz/AOoqNDTrTjra9wAqiAOSfjEiqO5MW1FLV2pvQhMB0N+b+dQ/OIstqVabn9aGi4oApSJjTPZxLanRKy/E/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The Noisy Cartographer</div>
+                                                <div class="unlocked">1 Aug 2024</div>
+                                            </div>
+                                            <div class="description">Drive down every road in Britain.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1496,18 +1506,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwH/xAApEAACAQMDAwQCAwEAAAAAAAABAgMEBREAITEGEkETFFFhInEVMnKB/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIABf/EACMRAAIDAAEBCQAAAAAAAAAAAAECAAMRIQQSEzEyUYGRwfD/2gAMAwEAAhEDEQA/AIQ11wMrTiGCVinbGvqf0Oedx9fWi0vE1wv0Sw08kUojy6EAFlwe8Icn45504SxwtgOzHHwANZz9NQVruUqkWGJWZ1yO/uXkLx+XHnOjVNYD4bst66yOOIZYEEvUEns6RRBG6urVNUWIbwMecjO4zqi60juN1sskUsdOgDq6qZChyDzvvgZ/X/dJOnIfY0MjUlCpqICGinqAGlkYcZY4Cj/Px51y79Z3K7UYkFQaYOvpyxqygxjOGycc5HO3Omv1KVr2XU+2QLdLYGDD7mpq6SnpJqmqqBCkYUgBCzNk4OB9c6FoeoDXUNTF05ZqmqMYaUzzHbs3LE+Bvprf+h6yst0cVLdbfbAkIHqSAszyec+MHA/XxqNoLNHa6OVb9eqG5XOSQqcSS1CImBsIwUQ+cliRxtoSOpGideu5qgO74Prm/EW37qJ62ejnmu1NRVMCmEQxSZYHwdud/OwxnnOmHRF19C9Q0HUoR/eCSMyunq5KqCMhfyG5GPnOkNTbLCkKwL/IVsUbmQRyusUeSd9kH38nRdFdZLcSbLR01uOMd8KZc/t2JbWsCuuSXud/Mf27P//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Antique Restorer</div>
-                                                <div class="unlocked">31 Jul 2024</div>
-                                            </div>
-                                            <div class="description">Find and restore 15 Barn Finds.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+121 others...</div>
+                                            <div class="description ellipsis">+122 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1518,7 +1518,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2024, 00:08:22 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2024, 01:08:52 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
