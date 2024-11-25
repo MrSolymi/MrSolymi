@@ -26,7 +26,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_other_languages: yes
-          plugin_languages_ignored: Objective-C, Smalltalk, Batchfile, Jupyter Notebook
+          plugin_languages_ignored: Objective-C, Smalltalk, Batchfile, Jupyter-Notebook
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_habits: yes
