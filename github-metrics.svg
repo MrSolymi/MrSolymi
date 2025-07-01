@@ -1500,7 +1500,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            105 / 115 achievements unlocked
+                                            106 / 115 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYF/8QAKxAAAgIBAwMCBQUBAAAAAAAAAQIDBBEFEiEABjETIgcyQXGhFEJRgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAIxEAAQMEAgEFAAAAAAAAAAAAAQIDEQAEITESQWETcaGx0f/aAAwDAQACEQMRAD8APeyO1tHt9t6Zau6UlyzMm4r7wCu4qGYqPbgg+fOP6NsnbGmOZEh03QY44QuSawI9xYKN3pu7k7Hxhf2kkjjOb8GbbNoVSPkelC6DnyAUYZ8fWRv96r9DqXrtut6enagItQSF45TWf04ziRkZ3UFdjLMwJBypwSPIG3dvJt7ULSBMDrrs+YEmrWzXqLPPQoj7g7VgpostcadPVfO7dHt24IB52I6/MvlfDAjIziG1StWi0+d4KwryA52MpIC52khmHOePB4/HTd3L2/fWvbrNQvIldZJJ5hXf0/ljZijMApVVhUZJBY5IA4BKu+F22bFd2LFV27v5wXOQMnAyg46M063c25cQoK3GtEmPbEfgpN2wG1Ao0fuq74SXSNCBiwsqyqjEswwpGPOcYJQfQ/8AOrrQ0sUtX0WOK1ZDrZrRKv6hsBPVjTBAIQgq2PlH9nnoN+G3cqaNckr25RHWmGN7eEIOQx+x5x9+l7S+8NE0/W6moyX9NuCu/qLFPb2b2AGxjtV+ASTt4IKpzxzdYaubIpUkKVBEYn5xULd1aHIBgHdYfdPcFqpqlmCSWxJFM1hHUTsPb6kiYCklANoA+X889G3c1xrc1u4/l3kKrkn2+AM5xxvP06rO8e4tF1eaWzBLVSwW4SF2IXIO5slVGMgHHOSzH68HOr3hOqxxsDxyR/v5JJx9uhji0wlIASYGBG48YMUi9eK3COUjqv/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Ankhumulation Complete</div>
+                                                <div class="unlocked">1 Jul 2025</div>
+                                            </div>
+                                            <div class="description">Obtain the Ankh Shield, the finest protection from unpleasant maladies and ailments.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1514,18 +1524,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYDAgT/xAAqEAABAwMCBQUAAwEAAAAAAAABAgMEBQYREiEAExQxQQcVIjJRM0Jxof/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAH/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIRMQMSISL/2gAMAwEAAhEDEQA/AAoUGLDt6jznqE37Q5ToyuqTR4zml3lDmFZWhSyCQVazgb/mCc6uKGtDbsSl2tMygNOGMy20tSMElRRuA4M51DSNiCDkYvqLUfZfRulylx1JzTWEpW45ka1oSlJVv9ckbeBwFcFi9Pab9Qo0xb9acHMWW9Ki9nuAT2GN9vzYeOMvYw6jrUNTm33LbqNNDr1mUCYGfg7Jj8pClDP25YRp1Y7jUAT2wOxF5QbVuS2qsq2LeYiuQIDjrsgsNtKZKcqGvRkBWAQkDJVqOcBOeKmTRbFl1KkogwapGp5iqE16M8pmOUpQr+Y4ypzUB5Hc6jtjiQiQ67RbTu5mmU3qbffgvOFl11KFtNFpSG5JCsYUoIUrABJ0kEfU8dTt4wIU+jcvbJpbVa9PqS1LdMpRpkdsxwAG208sYBz+jBPElQZtPstM6rVSbJ9pMlUSHDQeY46W9ln5H6g7Yz4278Jemt5UGDadIZl1unx0sxG0mL1CEqU5pAJXk7f5wRe861FpbaqFTp86lPyTJ1wJrZfguLPz0jfWg9yPHjxwJXMwrFStly6F1f36otR2HY60shttQcK0E6UKB1BA21jGxyDurh5NUXUfTe6GJUXpqo7TpMxagciSwEkJ3/qWwtKSg475GSTgKXU/SaPAWuFAY6tlBU2pUxxS1LCScnCwD8hj/v5x54120Vq16vAcqkN2XNoT7CVpUE4cDZVhRPlWkAYOScZB2IdZPlBPJ//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>An Eye For An Eye</div>
-                                                <div class="unlocked">29 Jun 2025</div>
-                                            </div>
-                                            <div class="description">Defeat Deerclops, the chilly one-eyed monstrosity from a foreign land.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+103 others...</div>
+                                            <div class="description ellipsis">+104 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1536,7 +1536,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2025, 21:08:53 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jul 2025, 22:12:25 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
