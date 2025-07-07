@@ -1644,7 +1644,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        211 hours played
+                                        212 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1661,32 +1661,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            107 / 115 achievements unlocked
+                                            109 / 115 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EAC4QAAEDAgUCBQIHAAAAAAAAAAECAwQFEQAGEiExE0EyUWFxgQcVJEJScqGisf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBgEE/8QAHxEAAwACAgIDAAAAAAAAAAAAAQIDABEhMRJhQVGR/9oADAMBAAIRAxEAPwCV5UoMOfGhERYy1dBKlFbadzpub35OGmPQKMqc4j7ZEdZuSF9BKe3FrYz5Jp2ui0xYSslTKDb4GKZlvLb9VP4ZCA20iypDhCW0c78HWfe3yMViiUpBnA6ydpRi+gcAZWy/ldqS45WKFBcbCCGx0kBKVkG2okWv5X2552GFDPlEo0SiVFynUqGlOlZbcDYCk2Tv6gX474rWYosNjqLggBRa0ONvnqFvbx6vK4O53Ht4Z/8AUqXDXl+Y21GEVSYy0qQO6gm3nvv3O5v7YV4o4Lhex+cYqVWNAQ2xvDf0qpCKjSKHGddQyhcJt11aj+QiwA97G/x64oec80RctU0U+lJAeAshA5v+pXr/AJ78RPJGbKfEotIT92iRZUVhASpbwTpOlIIUL8Gw9Rb3BIu1ujOSlSpNZp6nCSdZltqJ/aAT/a1vI8YAzWhUu3AA495tEoHbxXv59fWE2HpDjBeqJKnQhXUGo2KlKBAIHiASNwb+IbYVM8SGnKPUFSBqKo7mhXfVY8421HNVH0BLNSh2AsQl9J79t/5784Tcz16NU4U1QmRlLU0u13BdRsdh6746qURZkbGFCLKRxn//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFBP/EACkQAAEDAwMCBgMBAAAAAAAAAAECAwQFBhEAEiFRcQcTFCIxYRVBgSP/xAAYAQACAwAAAAAAAAAAAAAAAAABBQADBP/EACARAAIBBQACAwAAAAAAAAAAAAECEQADEiFRMfBhcdH/2gAMAwEAAhEDEQA/AIuk2XTq1TKS21TWfUKpzT6y2kbj/mCVHH7Oc86O69RWaXIIQ0CjBKd6QAoDOfnj9HTaGo0Kx7OfoFTP5OVTm0vhrOUpKNqgeO4/nbRVcNFlVarQorrxeW/I9OhkOe5kZBKsfpJye5J0rt3WDEuYHPTTZ7YdVCDZrLtq30VuY035Q2uLS3lCQQFKGQMjjONXtUs2n0SFXEPQGQ6xCfwXGwopWEEhX0ehGo2zg9EbCIzqmVtSA2+wXclbo34cSnoAMZ699MVwVCnTPDWal6St+5VMzHJanE/Kdh5PfcnH2D00brvmIOvd0LSKFOQ3WXT4aLSYtapxPKkrdpsWUqMTwSpsEpOPjjJ/udVfg7Yz9buaZcdVb2IUCGyBgZ3ZOB06fQ1AWm5RBSqa9JuGH56YzQ2PykApUG0+0gngDGMfWmex79oFHiLZXc1FdbUdxQ5NQnB6g51mv251BIPnscq5XZUyUiY1+/dFd+2Qu1/Er1i21OQXVh7CAeOcrA7/AD3J13Vav29FoF7JZiPO/kYLrcIkYUnaCMkY44O7sNVl8XdQ6xMD4uekl1I2thqW3tQM/Z50a3HKo0ej1R+HWqY6+/DebU2iQ2oqUpBHtAPf466lq3kFDiY7ydT8+KLsSpM7OzHa/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Unusual Survival Strategies</div>
+                                                <div>Torch God</div>
                                                 <div class="unlocked">7 Jul 2025</div>
                                             </div>
-                                            <div class="description">Delay death from drowning by drinking water. It doesn't make much sense, but you did what you had to do.</div>
+                                            <div class="description">Invoked the wrath of the God of Torches, and survived long enough to earn its blessing.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYF/8QAKxAAAgIBAwMCBQUBAAAAAAAAAQIDBBEFEiEABjETIgcyQXGhFEJRgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAIxEAAQMEAgEFAAAAAAAAAAAAAQIDEQAEITESQWETcaGx0f/aAAwDAQACEQMRAD8APeyO1tHt9t6Zau6UlyzMm4r7wCu4qGYqPbgg+fOP6NsnbGmOZEh03QY44QuSawI9xYKN3pu7k7Hxhf2kkjjOb8GbbNoVSPkelC6DnyAUYZ8fWRv96r9DqXrtut6enagItQSF45TWf04ziRkZ3UFdjLMwJBypwSPIG3dvJt7ULSBMDrrs+YEmrWzXqLPPQoj7g7VgpostcadPVfO7dHt24IB52I6/MvlfDAjIziG1StWi0+d4KwryA52MpIC52khmHOePB4/HTd3L2/fWvbrNQvIldZJJ5hXf0/ljZijMApVVhUZJBY5IA4BKu+F22bFd2LFV27v5wXOQMnAyg46M063c25cQoK3GtEmPbEfgpN2wG1Ao0fuq74SXSNCBiwsqyqjEswwpGPOcYJQfQ/8AOrrQ0sUtX0WOK1ZDrZrRKv6hsBPVjTBAIQgq2PlH9nnoN+G3cqaNckr25RHWmGN7eEIOQx+x5x9+l7S+8NE0/W6moyX9NuCu/qLFPb2b2AGxjtV+ASTt4IKpzxzdYaubIpUkKVBEYn5xULd1aHIBgHdYfdPcFqpqlmCSWxJFM1hHUTsPb6kiYCklANoA+X889G3c1xrc1u4/l3kKrkn2+AM5xxvP06rO8e4tF1eaWzBLVSwW4SF2IXIO5slVGMgHHOSzH68HOr3hOqxxsDxyR/v5JJx9uhji0wlIASYGBG48YMUi9eK3COUjqv/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAYFB//EACsQAAEDAgUDBAEFAAAAAAAAAAECAwQFEQAGEiExB0FREyJhcRQVJDJigf/EABcBAQADAAAAAAAAAAAAAAAAAAMCBAb/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADERIhMUEEE2Gx/9oADAMBAAIRAxEAPwAeQMn0KsUChepS4CpLzDCSpTCSXFKSOTa9+ST4BOKJ/p1QVVkxolJgSDYLShmKj3JIuFWNrDtv3BG9r4L00ps6XkymyKcl5JjRWXQ6E30KCALjzso3Hi/HONSKuc/OflJmsNOsoKZTbyC6lBC1HdOpJCDfUFWtuONr5O+20Phf2W6KUdMtzMSRkakJqRbXRqY2kqsErYQ3v4OoC3+4F1LyHSKBlypPIp1M1mEpbam0NlSFelcnbcWPBx0N6o/qkZMuW/S5CGEBv9k0RuP4hR1kbfAHOITqF+bMyrV5r6FlhUR5tCyLD2t8D6FsIjsHAJ7gOqqcDeN6eVCczk6itNtoDJgsg3A940g2OA5okevmaU3NkOR3/QQ5BWgghAsL2+CoKB7kD6xi5Or1GZy1SESa3AadTGaQW1yUgpISAQRfbGxXq7k6pxmIsuo050N3CHUS0pW2TyQq/nexBHxhApFjal2PySou9bajJ9FRlQ23FOOCPMZJLT8ZVkqF76fr4OKnNWapNU6VSEpJQw9T3ypvsFAKSqwvxdJt94mDS8oCoJQrOUUxCArSXmyobca9Vuf64bmrMGWV5NqdOhT6cgtQ3m2ENSEq1e02HNySTz3JwrqCVCjsdRfJvFmCOZ//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ankhumulation Complete</div>
-                                                <div class="unlocked">1 Jul 2025</div>
+                                                <div>A Rare Realm</div>
+                                                <div class="unlocked">7 Jul 2025</div>
                                             </div>
-                                            <div class="description">Obtain the Ankh Shield, the finest protection from unpleasant maladies and ailments.</div>
+                                            <div class="description">Some very special seeds can lead to unique and rewarding experiences. Can you find one?</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+105 others...</div>
+                                            <div class="description ellipsis">+107 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1697,7 +1697,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2025, 12:13:12 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jul 2025, 13:10:26 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
