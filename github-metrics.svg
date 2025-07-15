@@ -1655,7 +1655,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        87 hours played
+                                        88 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1672,32 +1672,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            21 / 197 achievements unlocked
+                                            23 / 197 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABQIDAAQGB//EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQRIQAFEjFBYQYTUXEUIkKBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBf/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMRElEhMUFC/9oADAMBAAIRAxEAPwDx5Y6M7bG7kJPyYElznOManDtc8kIlVIyp7cmB1VBtk9XRflxiQxK7RcVI/Zjewycn+tdJTVDJC8AcJEzLyBYAXva+fs/VzqtVY/czrX1QK80e4BPt0kCoZKfDmwtL/moz0yQ0MjvDZiwCNzN+ovj486d9QUUCbYJHqIpHd3jWOJiTYfzv3Btg6FrJGG0JCz8uEigkN17C4+baVlagGTSzkBneRD0hH7+3XZbqsrlW5dG5DOMj7+L6ZahcxyCl9yeYk8ljTJv4++2uD2fdztZpJYKuaJ43kMkaxsb3J8W6W07H6+q2gkirautrY+NoopZJkjU36kJxvj5OirgDDE9NnLkp8TPVdLvm17LXVFRBUw0zWQtV07IzciBYdr28dNE1Mc0Wwwz1X6yzNGwHDiOJsRbxqned7TeIhFUrFFHzDEQU7re1+pJJPbvrVqKmCWhVBNK0kaRRohR7YIuc4HQ6JcGVWs4AT96n/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAgMH/8QAJxAAAgIBBAIBBQADAAAAAAAAAQIDBBEABRIhMVEUEyJBQmEmQ1L/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgEF/8QAIBEAAgEDBQEBAAAAAAAAAAAAAQMCADHwERMhQWGxwf/aAAwDAQACEQMRAD8A4TdtGNqsFesJJpM5JY5JLED849avuZl22tztCBZugIV5sc5IYE+AVx3pptCJiaYhSx4w9lgeLM3JelIIbGMHv1oCKzbhr/JXcdpY79zoTRToXeonIYY5H2D0RnoanuuWuUmuKxwI39rLbDLuVbnVEDTdgwtzU5zhQD4JbPXeq07RdrcFmsI5o8AMGPRDAH8496MnktS2Jg26bN/jsK1oPjoUN6Pl+hA+/okknHR0VvEaARS8VVhyg8sTxVl4r2oAC5xgd+9O6MlJTgs8iVvKX7TuUNecwWpFjr2VZWc8zxKuSvSkZ7676wdUvU6m2vupt7ZFbeeApEfqY+O5/wBqFTxdcgjrIHjzpPchinrwETskqFwymJj+xI7A9a3q25YYxHLY+REq8VjmidlUfwY8fwYGmlUUygzdWb3GZ+tNup1Nyk2uSrtcVRq8ISbEmRPIPErljxRckAg4Bxjzqd43OKzZ+hVdZIK6gBxzHJmcFumJxg9ddYGltrcLU9b44tmGuejFFCyKf4QB2OvBzoWnDFBXnJnZ5XKBVETf9Ansj1pp3WRTObd5ptYDM+f/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Grand Fleet</div>
-                                                <div class="unlocked">2 Feb 2022</div>
+                                                <div>Birth of a Federation</div>
+                                                <div class="unlocked">15 Jul 2025</div>
                                             </div>
-                                            <div class="description">Build a fleet with a total fleet size above 120</div>
+                                            <div class="description">Establish a Federation</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQABAwQGB//EACsQAAICAQIGAAQHAAAAAAAAAAECAxEEABIFEyEiMUEUUWFxIyVygZGx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAeEQACAgICAwAAAAAAAAAAAAABAgARAxIhQYGhsf/aAAwDAQACEQMRAD8A4dlZMUMcCCIcxrLMWPXuP1+Q05MqYoyXx6iL7ASxFmiSPuPfy1FkyFEjZCA1sBYB9n0Rq/DlZOVkc7JmkyHx47iElbQbAArwBZH8DV8eMEWZx0KlZFyWdR8G+1iBv7q+96UMqNFMkkG2QBSrWwo7h0o/S9GsLhjZqnKytzoqNNNLIOm1L3WfTg7RXsMNZnCFcw0B0UGv1DUiVYsF6lGxaqCe4llT8Euu8bnO26sbj5P+aMQ8SwkgH5PjSKaViZpaJPypuo6XoFug+GguZ0lV33jlMa7iR6rUsmVjMY1QssSEnaI37ifJP9dPWjVWrYnwSPkQ5UUB6mhyOOTcSdMSYLDw95BJPFANvNKgnuYkljQoWennzoTmZMjwu0lL3LSIoVY+4du0eKv9xR0x4xHtpRDYHQfAivFe11BlZ5y8WQTZG57QRxR4/LUUw9BQPGtVjRdcYoQdmc23M//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwUBAgT/xAAvEAACAgAFAQUGBwAAAAAAAAABAgMEAAUREiExBhQiYXETFUFRgZEjMlJiobHw/8QAFwEBAAMAAAAAAAAAAAAAAAAAAQIEBf/EABkRAAMBAQEAAAAAAAAAAAAAAAEDBAACEf/aAAwDAQACEQMRAD8ADbVhYUiVYQznUk7jzycdmXULt01G7mYYLLmOKeXcsZYacbvqPvjXL63eswgcwGeGANNMgfZrGrc8/DqMLmQ5dGKlMrSv24yzvDQDFq8Gp/MWPHTz9dMZ1VJSfBr0cSmrHXQxjnWR3cuzTMKleFL8dPxST1SzoE1ADE/DXUceeI1ewkscymLRl00YMeORhl7Q5SY6d5K1K3l00sY3pXY93sJ8gV4H+6YLM8qpDYNmvRNGnYUCKP2vtOVYK3J56/3glqLSAc2QqUo98jY7LWlW20DlQbUM0CFum/duXX1ZQPrhVyrOIZcigGaZo9Oorad1roFknPmeoA6dP5wFCSAQxbpmWRWfVdjceI6c4px53E2psTSNIdAZEUgkD5jTQ+uGmYtPo0o6lrUOOjmPMr1KbJrfurMpgm38ShYOpQ/qRiQfUHXz14wV9pbAjoUqZILwIZZP2tJIGAPyIULqPPE+fOax1aJ5Wk3bleVCdp8gBp98TZp4pK85aw0kzsp5RtW8QJ5wTSlR9Oa6lsUeOTv/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Faster, Stronger, Better</div>
-                                                <div class="unlocked">2 Feb 2022</div>
+                                                <div>Let Us Go Forward Together</div>
+                                                <div class="unlocked">15 Jul 2025</div>
                                             </div>
-                                            <div class="description">Genetically alter a species (not uplift)</div>
+                                            <div class="description">Level up your Federation</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+19 others...</div>
+                                            <div class="description ellipsis">+21 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1708,7 +1708,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2025, 20:16:45 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jul 2025, 21:11:36 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
