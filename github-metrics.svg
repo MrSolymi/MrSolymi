@@ -1659,7 +1659,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        107 hours played
+                                        108 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1676,32 +1676,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            33 / 197 achievements unlocked
+                                            35 / 197 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcCBQYD/8QAJhAAAgEDAwQCAwEAAAAAAAAAAQIDBBEhAAUSBhMxQRQiI1GBMv/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EABsRAAIDAAMAAAAAAAAAAAAAAAECAAMRBBIT/9oADAMBAAIRAxEAPwBQ06UPwEeoVlYFgzBzcm+BbVfUVNPHLwSmmGAQGY3IOQbas9vgjlpIpJ/rEJipfFx9vV9bml6eoZYbVFHSI4Yq9TI7hvFwcD7cv361J36EbMU8cWLsWUk8P4THG57gypJBBvoyWKOKlfuQMkpCleTEEG+cX8W0VvxgpeppJUTtCIIBEj8wpCi4BObfzQu57lJucs1RMRyLDAFgMjTDWAm5DOgBMGpXD7eAzggO7CInD/b3/NN7p7qzp19jgpupqSeNoQBFLEAZJFHgOnkEZAPg2vpM0VdDT0Ua/ImjlDvzVYmv/o2yB+tdU3Db+RZzOWPk9piToToWOmKrtCLgmt6q2eLqPeKrddhhaCnlezJK4OAAOWMg48W1mtx2xttoGkaoppeUiL+KTkRn3jUot/p4Cpp5KiMqbgiJhqO8bxRV20vDD3Vl7sbIpR82Iv5wPZ0r01ckSAZ//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMEBgL/xAAxEAACAQIEBAQCCwAAAAAAAAABAgMEEQAFEiETIjFRBhRBYSOTJDJicXKBkbGy4fD/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQQCBv/EAB0RAAIDAQADAQAAAAAAAAAAAAIDAAEEEQUxQVH/2gAMAwEAAhEDEQA/AB6Ck8xSxtHFqfUwJ1G537Y7XL3vzQMB+I4nyZopY44pNIcSO0bn0N7WPthDy+npaiUwF05UvaoJBuAOjAb3ubXH546DDkQaxJg+/sEoAhqyqHJoYVBLo+3pqO+K1THBHTyaI213FiWO2+EHOsjaNJBwWilXrG/UDv7/AOvg+zGMxJLqB+sv74r3Ycy8xGsa7+zT84AHRqUKKp4ZhYm3M/8AI43GW53EWgdpXSWK1nU+nYi/vg1LQ8KK85WRS910NtzG3TEiVcagfSG+W2IsXkVrTSjgptAPIzReIYZKYx1U0sxuSs1tRU/aHW36/eRtjC+LqulnoGkgZOLxF1BTta/X+sZmHMljN/Mt8tsS5hmkNXlrxGQtLqQr8Mgmx72w9OxRpMQL38ia2iHlT//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Grand Admiral</div>
+                                                <div>Unstoppable Force</div>
                                                 <div class="unlocked">24 Jul 2025</div>
                                             </div>
-                                            <div class="description">Have an Empire total fleet power of 100,000+</div>
+                                            <div class="description">Build a Juggernaut</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUCAwYH/8QALBAAAgIBAwEGBQUAAAAAAAAAAQIDBBEAEiEFBhMiMUFRFTJhYrJCcYGhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAQCAAH/xAAcEQACAwEBAQEAAAAAAAAAAAABAgADBBIREyH/2gAMAwEAAhEDEQA/AOHXbUVevABDmQ7izFjzycaX/FkEir3GcnHDHP8Auq+uOQIQMn5vyOieyPZu313qEIaNoKe/Mttx4UUct+5x5f3xpFdffiqPTCn5onTyE3VFSWRO4I2OUIYkH+RnRtG5DZrzgwhZBtKsGPHIzpb2p6Y9Dqc5hWSWmXIgnYDLp+kt92PP66r6C+RMD9v5DXLECeqR4ZgEZOljrpMEc88MlggQqXz4gPU/TW0j6iorQ1aiLXRBuG0cxp6lseZI8h9dc2dozWr7bDpIrOXQxsR8xI8hg8aNqdZs1IWgivO0JIbBrkEn2JwTjPppuPYlKckQGrI1zdAzZ0J4JLss9nYsTRNEkckW8Phdo4PtknPp6ayXVIqlazYFZWSQMqsvp8w50vkv2HcsbsgJXaNsbjaPYcak9hZakvfWHlmJTaO7fJ8QySSPbU6dddycgfsujK1bdEz/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwMEBQIG/8QALhAAAgEDAwMBBgcBAAAAAAAAAQIDBAURABIxBiFBExQiMlFhoQcjNHGBkaKy/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQAAv/EAB8RAAICAwACAwAAAAAAAAAAAAECAwQAESESQROBkf/aAAwDAQACEQMRAD8AFqmphiSkiECl33b3Ltn4iOM4411csUNU0JRWwAQQzee4+x1nV74mgPy3f9HSZ0PRr1dYpbNLiKtj/S1KoN6jAxGTyUwD+xI0pSqxzIfIdwe1KKyrIRz3nh4qK51NGamktFRNEOWQMeOSBnJH1GrK2+tprQ9TdLeaUyFfQ3FgxyR3IJ4xpcorY/SlthUSVMrUcRhaokkEW6JmdvTAPABDkDntnt20UdTdRzX271RB9OgRl9CBScRjco8+dQzRsHYBeD3ipjrGuJUOyRkXQVFDderLdBUGNUAmkDyruRWDHaWHkZx286VbfX0fSlvluEXs8E5Zg6qojaokU9hEu0rgc7QR576LOm+p6awdP1MVOrC5zl1Zmhb3BvJHcD+dYFyulRdKh6i43CpqJXbcS8b4yeTjGBrV5WSTZOlzqRYHrfE42Tv6xc/Fa5U3WNmgvdLWwy1tNEiVFNGfgck/mf198aHadyIZH+qD/Y1ZoLjFSpNGZZWimQxuBE/GQc8fMDULPS+xTBJZGnZo9ieiwz74J74xxq65ZilQBPzC6ldq6tGTsb5n/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Industrial Re-Revolution</div>
+                                                <div>Breaching the Planes</div>
                                                 <div class="unlocked">24 Jul 2025</div>
                                             </div>
-                                            <div class="description">Earn a total Mineral income each month above 1000</div>
+                                            <div class="description">Explore an Astral Rift.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+31 others...</div>
+                                            <div class="description ellipsis">+33 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1712,7 +1712,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2025, 14:22:49 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jul 2025, 15:32:32 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
