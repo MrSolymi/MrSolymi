@@ -1635,7 +1635,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 24 Jul 2025
+                                        Last played on 25 Jul 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1644,7 +1644,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            38 / 197 achievements unlocked
+                                            39 / 197 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQP/xAAsEAACAgECBAUCBwAAAAAAAAABAwIEBQARBhIhMQcTIkFRMnEUI2FigYKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EACURAAEBBwQCAwAAAAAAAAAAAAERAAIDITFRYRITQfAEIoGhwf/aAAwDAQACEQMRAD8AjK1rmhf5RM9yCeY9eujK+Mm88qkMnL4juT/mt/gXDpvVJXbwmaimyXFaztN7O4hE+3TqZew0/UlvVaZWtZKti1SC2IposhI2mNgD2mfVHuSd9/nW8KHuBQJXP4Oc0GVBAnAdAop7UzTEjlFCyGxjZIPK1DIS+JEg6EauC0MJURLcAS5j066qs5XKjcfh7d2plnB769mo13mCIWJ7Eb+tZOw6+3wdKfHeHVj6i7NQzlTewCHmfWuQPqXP9w+fcEHQiOaBOlx2X2M8MX3AJEIbfKSunNMKAU2vCPFZu/w9Zt4pVEorudKTbLJekx5ZSiIgHuAOuqZ+G4hrNx6rGO4NbbsmJTN8W+ZzRJIAJj1MQCQdxtqKcB+Ia+FeFn42Jf5thziwBRMRCQESPuQP400M8ZsW5SIto3lzTISgxQO4I+DIEj7frpN97SHSKNX40SDCdmCrds9w7nuGW2OM7icQ22boaIKlMiUncwlHsDt8dff30gcTcUX8zjWxtrQuE7EHkLBA332iP6gkb9z037ad854sYHLYg0WKyaoSbFsgKwlzGO+3Xfp9R7aluYyFCzVZCnN+5bGUYyURv6hpt5XNJHasfKjQo/sQS9dv/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Citadel of Death</div>
+                                                <div class="unlocked">25 Jul 2025</div>
+                                            </div>
+                                            <div class="description">Own a Citadel with 40k fleet power</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1658,18 +1668,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcDBAYI/8QALBAAAgECBQIFAwUAAAAAAAAAAQIDBBEABRIhMRNBBhQiMlEHcaEWQlNhsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAQMFBv/EACMRAAEDAgYDAQAAAAAAAAAAAAEAAgMEERIhMUFRcQUT8CP/2gAMAwEAAhEDEQA/AEg8kYEamNFtHe+kku1+Odvv/WCSZRO+VR1YWBZXJK0z36jx/wAgHx99zyNhitlPTeqpuuNaWXSrH0lySAWHcfNsbmmpJ5/K1VSrSw1MlzJ7yzA2sfg9gPg4h7iC1rAq2iBkZkmNuO9UCyDwVnue6jl+WF4l36pBVDuPaxIBO4IF8Cc4yyqyWvq6DM6LoVEQ2DqQedmG/B7HcY6JosxDGKkjp4rQDpuZl1qiDYqoNwFHHyeScK362VET19DCm0kNK2pDzGrPqRSSL+0jubcbYYe0W0XO0nlHVE/qw5FYHw2sUtVRGeqSljFiXIYkjVwLA/5hnZNn/l4VSaugaOaQgSU0LxtJ2uTpFzcj84T2WZjFRRUksVYiSqnqAJB5Ox2wR/VVVYg5s7Xty7bfjC7sZILTx9ot98FPNHhmbfXY8dhNKfxBLTyumX1UEaofWksDsRZuSNNifvtfCy8Uy66qsl8wk9wTrGq59X7r9/xiObxVNJIHXMRHubhGax377YG5jmEVZDVyy1qPKy7A3JO424wTTJnjN/ukLKamhb+LbE22PGe5X//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Animal Farm</div>
-                                                <div class="unlocked">24 Jul 2025</div>
-                                            </div>
-                                            <div class="description">Reach 50 Vivarium capacity.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+36 others...</div>
+                                            <div class="description ellipsis">+37 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1680,7 +1680,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2025, 14:21:57 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2025, 15:30:30 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
