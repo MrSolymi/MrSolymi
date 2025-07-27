@@ -25,7 +25,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_languages_skipped: Prog1_all, 2d-combat-platformer, Szakdoga-prototype
+          plugin_languages_skipped: Prog1_all, 2d-combat-platformer, Szakdoga-prototype, Just-A-Game
           plugin_languages_ignored: Objective-C, Smalltalk, Batchfile, Jupyter Notebook
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
