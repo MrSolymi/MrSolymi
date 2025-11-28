@@ -36,6 +36,7 @@ jobs:
           plugin_habits_charts_type: graph
           plugin_habits_languages_limit: 4
           plugin_habits_from: 800
+          plugin_habits_trim: yes
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561198170820233"
