@@ -29,7 +29,7 @@ jobs:
           plugin_languages_ignored: Objective-C, Smalltalk, Batchfile, Jupyter Notebook
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          #plugin_habits: yes
+          plugin_habits: no
           #plugin_habits_days: 30
           #plugin_habits_facts: yes
           #plugin_habits_charts: yes
