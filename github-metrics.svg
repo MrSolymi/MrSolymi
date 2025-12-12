@@ -1449,7 +1449,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        28 hours played
+                                        29 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1466,32 +1466,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            18 / 49 achievements unlocked
+                                            20 / 49 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwECAwYEBQj/xAAtEAACAgEDAgMGBwAAAAAAAAABAgMEEQAFEiExBiJBBxMjUXGzYXOBk6Kx0v/EABYBAQEBAAAAAAAAAAAAAAAAAAIBBP/EABsRAAIDAQEBAAAAAAAAAAAAAAEDAAIhEhEi/9oADAMBAAIRAxEAPwDnjeNzCinWqVK9doIUV5FiQmUlFOTle+sOK3ckIC+6JPQAQR/50t9OV8/lx/bXVm8J+Gbm8T4qRZCDk7t0VBj1/HHYaz2uKiblqswzS3a+704o5Z4Asci8lY1kAI+Y8vUfTSbPuYYW61upXsNPC6pI0aAxEIxyML30T/Fu+2X26ztD0UTiqCY8hyUjqMDHUeX0x/ehNTj4bljiVwkowfT4baK79jRG9QXb5PsdbYLuPm7cIs/tro1ez3xBt9Hw1Iisq2o8sy+rk9j9DoP7ttoIqWqluvYaeFGeNZUBiIRRg5bvqOvHeiAC+6wO3x4+n0PLUYsXAiQ4qJyXj2hbis27taYIZ5IxyCP0AB6fqOR6j5nVCqyGTcuR7lJPttqSeK5IvHjCB64mj6/y1LtO2gC3Zt269doIXZI2lQmUlGGBhu+quvI2FzO7YJ//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAgUDBwQGCP/EACwQAAICAQIEBAUFAAAAAAAAAAECAwQFABESEzFBISJxswYUUVJzIzM0QmH/xAAYAQACAwAAAAAAAAAAAAAAAAAABAECA//EABsRAQEBAQEAAwAAAAAAAAAAAAECABEDBBJB/9oADAMBAAIRAxEAPwDnjMZMKKdapUr12ghRXkWJCZSUU7ndeuoK812VeY3LWENwtJ8vHsO+w8vidu2o76cV8/jj9tdPsE/8eC+LFnEQS8+SrG5G5YBCR9Cdx6gaXqiTOxDT1y7Js1etRnq2q8vzERd4uTGXgYOV4W8vcAEeuhw+TDC3Wt1K9hp4XVJGjQGIhGO42XrorNXhDeSRQGK+ddjuOx/3WFRThyA/HJ7baJoTmLhl6YrrAZA7/ZH7a6syCrVn+D8bTSStj7MyrLxWJAnEQ37gb+3p6Dw1X2WxoIqWqluvYaeFGeNZUBiIRRsd266d4HLGGmlLNUorlSMEJ+tCSo28BsTt176p6yoJtvj+hKlfubZarhMPgrGPpZaXJXZTxiCN1dA3dzsPA+H131olNgcgNvsk9ttO791ldjhqFekWXh5nPjLqPopBAHr10uxONAFy1bt167QQuyRtKhMpKMNhs3XR5zw66Pa/shO//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Larger Pockets!</div>
+                                                <div>A Vampire with a Hobby</div>
                                                 <div class="unlocked">12 Dec 2025</div>
                                             </div>
-                                            <div class="description">Equip a bag.</div>
+                                            <div class="description">Plant a seed in a planter.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcI/8QALRAAAgIBAwMBBgcBAAAAAAAAAQIDBBEABSEGEjFBEyNRYrGzFBYiMmFxcnP/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQA/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQMAAiESE//aAAwDAQACEQMRAD8A543jcwop1qlSvXaCFFeRYkJlJRTk5XzqVCtutyu1hFhSuoPvpIY1QsAcKD2/uOCAPU8aCvp3Xz/zj+2un7pLYrxowT3rAr7ZG4mWGQgGQjlePOM845z8Oc6ntcVEuWs3MDudMTxbR+IW/CtpWaNo5K8YDOq9xAwMgcHB58Z4GljZt0DLbrWqlawZ4XCSNGgMRCMcjC+fprRerbcUOwRTVoSFmkaIxk5XtLZIP8lVIz8xxpP3neK+6T7fFBC4aulkmWVEV+11JEf6fKrg4J558AcaVd+hsdyuDhlXX9m3UdRJ8GJngDA+CO1POm5twEO97lDueZSJiU7/ACF9O3Ppj00pbttoIqWaluvYM8KM8ayoDEQijBy3n6au4d4azUji3vbYLssYws62o0cj5uedBlOhkyGedtjH1V1F+ZNv3ezOE90kIHZEsaBgQoCgeuBz/es3psDuA/xJ9ttXG9XrNyqlOnUr06KN3+yWxGS7fFjnQO07aALdm3br12ghdkjaVCZSUYYGG86NK8jYGs7OCf/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwUGAQcI/8QAKRAAAgIBAwIGAQUAAAAAAAAAAQIDBAUAERIhMRNBUWFxgSIjMnKCs//EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRAyH/2gAMAwEAAhEDEQA/AOeMxkwop1alSvXaCFFeRYkJlJRTud176Y4/G3JKy3Z5IJayxGWWKGOMSKOBZR1Tz6dt9tI7ycsgf4R/5rqpxGXlw+coB1Z61qjELCgdOIBAf0/EAb/Y1BvzEdkr3aYlzyWcfbHgSRy1JlEteXwI/wA0P9e47HQ8Pkwwt1rdSvYaeF1SRo0BiIRjuNl76qszjVrha0yOcJbPi0bKpy8CRuvH14n08x8akzQehlkR3jkVopGR423VhwcdPsEfWiaVIbhywlesLmcEcjFIViSSVx3VBGu5HqfIe5GtgVKMMVKCa5Aa1SFf0qz9X3JBJc+bE7fiPMD22hLdWSrYoZDG3a800kSMyLIg8LZFHFt267jcEfIOnz5RJIknmDTyhAqVjOgEfqORbYj36sRsDt1Jza3MKcqS1UNclm8lmRLBAAKYAB5kLEgA7nbYsfPuEHvqOvzQvlKkVeZZlgqvGXReKluMhO3t1+PTprGVt5PIjhKYUgH7YY5owg+uXX5O+g4nGgC3at269doIXZI2lQmUlGGw2bvpiVKDpbtn/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Blood Donor</div>
-                                                <div class="unlocked">10 Dec 2025</div>
+                                                <div>Vampire Rising</div>
+                                                <div class="unlocked">12 Dec 2025</div>
                                             </div>
-                                            <div class="description">Extract blood from a prisoner.</div>
+                                            <div class="description">Place a staircase.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+16 others...</div>
+                                            <div class="description ellipsis">+18 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1502,7 +1502,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Dec 2025, 16:13:25 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2025, 17:13:36 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
