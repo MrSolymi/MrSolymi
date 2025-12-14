@@ -1459,7 +1459,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        39 hours played
+                                        40 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1476,32 +1476,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            23 / 49 achievements unlocked
+                                            25 / 49 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwUBBgIEB//EACwQAAIBAwIFAgUFAAAAAAAAAAECAwQFEQASExQhIkExYSMkUXFyBjIzUvD/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABwRAAMBAAIDAAAAAAAAAAAAAAABAhEh8ANBcf/aAAwDAQACEQMRAD8A4BUzz11VQW200FPHPHCoZ1jT4nYrFmJGFAGSSTjGSdZ81bqaVKUST3asZgnysUUMW4+FZkZm6+cLqLlJyNhkaAEVNykWnZh6iKOKJio/JnXP4DTf9LWm20ltp6uO50L3CrKwASlgIyTllXAyHwQM+CemsG1K06pmrrExUKm3VMrU3FmtVYrFPm4opotw6YZlRWXr5w2h0089FVXC23aggkqHidVZo0+F2MQykDByMEEHGMEeDp5d7DbavnHqbvbYJKUcpGqFtsbBu3e2MlsbgTjxoN0tvJ00dLPUx1NXa2MHETP8UsMjohJ/qVbHs+iqWWfjuXrJtUa1vKomTLb6hZXUHrwZYY1Lj8WRc/TeNVqiqA1FbE4MSkXBm3KvX0Tp/voNMpEqbbWW+62a4QPUvErMqSIOF2KpVgTggjIIPuDo3L2urWB3hmtkqTcVo4JIp4SemdoaRWUdvoS330I5ffglq3EcF6QgOecQbn6noZNWSvj5GF1mL8xcpTUqrkZEKQOFP2LOwHsmgPFbKZ6qZIZbnNNNxglRJFBCp7sbgsjM37vTK61IYp7hV3C53e4QJUJCzKryIeL2MoVQDgYGAABjGANBmcd9n//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYH/8QALhAAAgICAQAJAwMFAAAAAAAAAQIDBAURAAYSISIjMUFxchMUYRUyUTNigpGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHBEBAAMBAAMBAAAAAAAAAAAAAQACERIDISIx/9oADAMBAAIRAxEAPwDgFmee9aoY3E0K8c8cKhnWNPE7isWYkaUAbJJOtbJ5M17FUAYpZ5snYB7zVo4oYQf4VmRmb30vDJy/p/R+V4drYyMi12ceYhjiiYqPwzOu/gOLuiVSSTLQXmoyXKNGWOa0qL1gE6w8x67/AI9eEBmx1W3JHBapPFEGFvDyS/0pLteOSCT/ADEalR+dMPbletPPStZDG5ahBJYeJ1VmjTwu4xDKQNHY0QQda0R6Hmg6e9I7N+K3BYyy2aBG0rHRImBIBUfuUAHt8vLXEOOlGQwEEsxJsY6R6wY+ZhkikZVPxZH1+G16czV6rqRfIceTkdhlYvv+j8iw7afHSLO6DzMUsUSlvZWRQfmOMcVXjxnRuKdPoymdfqfd1QWcbGmryqew6IB/12EHfF08M9G1RyWKvV5ZpIVLoHTw+4qlHBOmBGwQR+Dy3N9pfrwr1rGIaPY+nVeKWI7O+zciuO0nsJbXoeT7AlT5s2z3MllLP3VouOqwHYGVddb3/wCc0WMiGP6PwJMCLGRkewqeohjikVWPyZ318OEOOxWP8VIpspODtUsSRQQg/wBwWRmb22vCvDNetX8llr9eKeOFmVGkTxO4yhFAOlAGgABrWgOaUzCHWtutf2f/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Forgotten Reaches</div>
-                                                <div class="unlocked">13 Dec 2025</div>
+                                                <div>Don't Drink the Water</div>
+                                                <div class="unlocked">14 Dec 2025</div>
                                             </div>
-                                            <div class="description">Venture into the Ruins of Mortium area.</div>
+                                            <div class="description">Venture into the Gloomrot South area.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgACBAUHAf/EAC0QAAICAgECAwgBBQAAAAAAAAECAwQFERIAQQYhMQcTFCIjUWFxMhZicoGC/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAcEQACAwADAQAAAAAAAAAAAAABAgADERIhIvH/2gAMAwEAAhEDEQA/AMBsTT3rVHG4mhWimihUO4RPqfIrF3JGlAGySTrueuzX8TRUxPPPk7IPzNXhighH+LMjMw/PFepsePuWqEdLD13myGYlWA8B5iGKOIkb7KWYEn+wdXXgb2bpZvNY8Th69au5iaqh+pNIG49vRT9/Inz15efVBZFGtNa12WNiiDEFzGZFeEFiTGWN6U244pYSewLqilf3xI++vXplWxPStZDGZbHwPYeJ0BeNAYiEY8l0PPY0Qd+miOx60f2r+z+rZexd8N1o61uqqe+pxaAlXjsFB2cAencDfr659VPxmFryTMHs46SSn7wHfKJ4pGQb78SrgfhgOw6COrrohsrep+LfZKmvWR4cmGPmlSejIrypG3HlDLFGOR15lVdB5em3HQ1Q8RZjHiQU8lah947SPwkI5MRosfudd+riaKahZo5LFXq00ssC+8jDppBwVSjgnTAjYII/B6U2MxN76pSfFzH+UcMkViL/AJ3IrKPwS376ccc7iMH3zB2zk71qYy2LliWVgoLvISTx/js99dujD46f+mcXVvJELFhpbCcYlRzCsUgVnIG2LM8h2d+S779QoMfisf8AVjhlylgHaLZkihhB+7KsjM362v8AvpteCa7av5LLX4I7CROyq0ifV+Rl4qAdDQ0AANa0B2HUYgwIGB7n/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQIDBAYH/8QAKBAAAgICAQQBBAIDAAAAAAAAAQIDBAURIQAGEjETFCJBUYGRFSPB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EABkRAQEBAQEBAAAAAAAAAAAAAAERAAIhMf/aAAwDAQACEQMRAD8A8HzF+V4aVPEYuJPggiE08dRXaVjGp5+061v+fZ6x1o8zNKifTMvkwXyakoA2fZ+z107jO9c52+ZqOMtGOtIsTlBxz8a/kddRgu58hfz2HOdt3LlG9Lp6S2GVXZfIBBs6Ab87/wC9aDm+uyvc8m4fK1pluTRYS0mRhhYxyTfSRINgDnkcKd8E69dRxGRaNb2Py+OrSNPXl+GZq6Bo2EbHYIXnfHO+PY6n33HisZkxB27bllhlQPaUoyGM7P8ArZfR173s7JHrrT/kbCzWqyXWt0xEa8TSKoBAgct4geuPH++pSM1DebjHgSbLJFGGnnkjiPgD4LGoiUlmYj0B+v76cqPcTuPtyOpA9qCi8dllq+TIzMfIBTrfl4lRzzs+uqcjURqNKWrkoLCXIq6WK/1KKYECp5Dlt8kevxo76VwObbE3b+Rg8ksR1pY6IjnhQxyPwnHkdqoA3++mL8cmfTC57IPc70zd5601VpoSXgsHyYDaD7tj0f10NUmD34kREjjSKYKib0Nxvv3zvpTNrfu5zIXrVuC1NaiLtL88I3I2iw0CAOQdAeh1Rg8QiR3b2Qu1K5grymKEzxlpWMbD8Nxrf8+h0XATf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Footsteps in the Snow</div>
-                                                <div class="unlocked">13 Dec 2025</div>
+                                                <div>Completed Act 2</div>
+                                                <div class="unlocked">14 Dec 2025</div>
                                             </div>
-                                            <div class="description">Venture into the Hallowed Mountains area.</div>
+                                            <div class="description">Defeat Octavian the Militia Leader and complete Act II.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+21 others...</div>
+                                            <div class="description ellipsis">+23 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1512,7 +1512,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2025, 15:10:16 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2025, 16:10:30 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
