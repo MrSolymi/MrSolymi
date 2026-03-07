@@ -1491,7 +1491,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAYCBQcAA//EACkQAAEDAwQCAwABBQAAAAAAAAECAwQFBhEABxIhE0EiMVEUFyMyQmH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEVH/2gAMAwEAAhEDEQA/AEnZLbOh1+3ZVYuNCpLbjThaT5VNIZ4KIKiU9k9Z/Mfp1KKdn5lbcg0+iVaesr8bCYyHlqkHBPwT5Aceuxk4zgZxorb+86XZ211IdrIkrEoym2Y7DfLzhLnyClEgJHzxnBP3oTZWjXLT6xKuyhUCkJpDnN+AxWFDL3FwhLcZZ+XlA5JCvr9+xq3GZrwSnaCrVdqFT4NRhrfKkIMgOJQhXoKV5FEfmcHHvVZuhYdNti2Q7HjkT2nwh1xK1FOD/r2SOj1n3jV1vHty9Emm9rNiSv4TkjnPpziOT9MldLUhaRn4nOc9jv8ACDoO7LtF6bUz6g8plFUZkNJmsMpUlI5OHgsA5A5YVkA9EegdKsRtSz0XrY1pNP1BmFFhSJiX+SVKcKXFJ4lAAwe09gkde9Mu3+5dHte3ZVp1ViWzOpUaXDK44MgTyXVKU2gEf2j1/kcpAySPrSztnfNv0K0o8KpS1tS0LcUQGFqxlWR2BjXQK5Y9P3ClXbHrkwPurdebiCCsBt1xJClc85IBUogYH2PzWVD/ANWLgj1y+LgtiBMgwa0G0uuJcW4YTnXBXkIIycKGCB0cDGBpYor65O3d8Punk+7JgrWQAB246ScD/vrWpVHc20qpTZNPqcuRJgyEFtxksrTkdHI66UCAQf0aze665a8S2nqJZ0aUpE11t6VKkrJUeGeCQMDr5E/Xv36D/9k=" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Tread Softly</div>
@@ -1513,7 +1513,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2026, 16:13:45 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Mar 2026, 17:16:16 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
