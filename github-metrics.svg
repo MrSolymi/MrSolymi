@@ -1475,7 +1475,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIBgH/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREAEiEGBzEiQWETMggzUYKhseH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEAv/EAB4RAAMAAgIDAQAAAAAAAAAAAAECAwAREnExUfCx/9oADAMBAAIRAxEAPwCarTbRVxliCxPgfr/uiVJZYJZgpTdyARuORredo+nqC9dH3eoqzI1wpVZLfEMJFJMQWX6reduQOBj5Omh2+7fX7qbpegW/zRI8JfZAlshp46Qbj906qJJGOM4Q45G46KyVfZB16xavJNAjfvJ8u9gpqaYpHCV8n7yeM4H9aA3ChWnpg4X1Z5OqA7r9F2/pmenq1vkFRQ1UphilqIzFlgMkBxlXAHlgAATjOdLruF0/NZrEJKykqoDUbJIJJY9qSqSDlG5DcEHg++jTe82VaA9+RiaJCis0yPw53txfms9qjEVS6BnYyQtFujfBOMncCDyeR/OqBoO4VquPbJLQJZaC6K6gwS+kSqXLYVxweMccH4xqS7PcoKSnUSN6wTgbSQPnRuq6mpWiWGOVmjHJJU+onyTqy150PEbBP2sgLCkxyOmA+3jrk6XtXVVYGvqXe63JJAYXqrk7oiZ/LVMcL+7Qr8TfU9kuPT9jsNkqlqZLTuSd4RuhUkIoRX98bfbgeNLBOsQLZLSCvq0idNrRqW2tz4Pvgj2zjWXulxSoi+lFkqcZOMYxpAqzkAKR3hjJUBJYHrP/2Q==" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Uncle Scrooge</div>
@@ -1507,7 +1507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2026, 14:43:03 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Mar 2026, 15:23:05 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
