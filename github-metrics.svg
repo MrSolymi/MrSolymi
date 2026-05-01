@@ -1449,7 +1449,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1466,32 +1466,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            23 / 114 achievements unlocked
+                                            28 / 114 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMEBgX/xAAtEAABAwMDAQYGAwAAAAAAAAABAgMEBREhAAYSMQcTFFFigSMyQUJhkSIzcf/EABcBAAMBAAAAAAAAAAAAAAAAAAACBAH/xAAgEQACAgICAgMAAAAAAAAAAAABAgADESEEYTFRQXHR/9oADAMBAAIRAxEAPwA7orbxnNMFxS0N8nFFsgEpSL2BP1OAPyRqpO3FWo0qNFcoF5L/APWluUt0O5tdBSSCL/xwTkEXuLaiqbpZ21JW1cuznkRGuPXiCFrt+kD3029pm693bdahbc2WwudPptKE2dVvBoU6hoqJSkAggYAJOSo2PW51VYTnUUuASICq31KbfWy9SAXEj5BJdSQcW66mrvJyYtLDqlMPBLzSlHKm1pCk3P8Aht7afafEXuR+dtLtQTTKlVo1PRW0S4hEd1spGWZBSMFJUD0sRkjQNU5KqnT0z3IzERxuS8wtiOLNNpUouNhHpF1pH4TpUJPmAfeJ1Go0ar0uJDhyEsTGAsNpkBPB8qWFYUfkXdIGcEC1x0KvAqsPcVQoUxNXlbX31S2EQFvPs94zNCccVpFjk3OfO2cWAGatGS1xe+EB0xcH9a0lG3pTnS1ErTqnmkDi1KSk98wPK/3p9JyPoR01SprbT67knJpsXL07Pr8PwYqVmjI2JRao5SKmqt7r3Cvw8ieWyQ2hQ7wpQnPJSsZOLeVraG6g1GpFJmwi8mRMkqQp3u1AtMFKibBX3KyRjAuck9Ldb3tEcZ8HS33WogT3ZdcuXXU+XoR6B7k6yMuox3Gylr4l+uLAaV2RchTnubx6XOLLddevsz//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcBCAMEBf/EADIQAAEDAgQCCAQHAAAAAAAAAAECAwQFEQAGITESEwgUIjJBQmKBByNRcRdhgpGhsdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAwDAQACEQMRAD8AXFMUph8CQ+THjJW+4tB1DaElRAPtb7nA/wDiHJUdKa39usOf7jfrb3V8qTFoPbnOJiIPoFnHP6QPfB/0fvhFSs55UrFUm1BxExfHCaSI4PVFgpUHkqJ1Vba1rAnxONd1gxeVbOT1OeYbLECWXGEPK6tMdWGyoX5ajp2xsQLgHxxNc4nJiksOqUw+EvNKUdVNrSFJufsbe2Gn0ifg1RsvUd7NVKnCFblMrgBi6HnjZPEgg9i9iog31vrrhRRVGRleA8rvxFrhrPp77f8ABWP04mXoHdXAiV2lwYcaRyJkbmctD5AbkcarmyvKvQCx0IA1B3fnRzzLSaLlZzLdXfaplTjSXFlEohrmhZvcE+YbEb6DFYGatGS1wvfKA20uD+2CKlZwpkhLcKuOF9lI4WpKUkusj6a99PpOo8CNsO0qQFgOkPm6nVLLCsq0dbdSqM5xvjEchwMpSoK3HmJFrfS5OK4TWItGpE2CXkyJkgtlwNqBaYKCSO15l6kG2gBOpO2eq5vp6WlxKMpUaKscK3ikh18fnbup9I9ycC0uox3Gylr5l99LAYlJSgP/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Frozen Ancients</div>
+                                                <div>Growing Stronger</div>
                                                 <div class="unlocked">1 May 2026</div>
                                             </div>
-                                            <div class="description">Complete a Mission in the Frozen Ancients.</div>
+                                            <div class="description">Activate 7 Enchantments.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQYB/8QALhAAAQMCBAMGBwEAAAAAAAAAAQIDBAURAAYSIQcTMRQiIzJBcUJRUmGBgpFi/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EAB8RAAICAQUBAQAAAAAAAAAAAAECAAMRBCExQdGR8P/aAAwDAQACEQMRAD8AHFMUph8CQ+THjJW+4tB3DaElRAP4t7nE/hovMXEKvIg0ijITHQpPapi33eXHQfUm+5teyep9rnEelUd/MDLdJgOttS61ITAZW5cJCQC6sn7d1A/bBK4FsZgyFlyYalGqqWlSgoQtCWkGRzAwlnWsW76lAlQNhoHpudFrkHAkl98Qa8RpNfyFmB2mVuipCNSjHkJfd5clAPmSb+1x1F98Ulc1OTFJYdUph4JeaUo7qbWkKTc+xt+MGDjjTa7xBpVFcpTFUdZU+FNR3EhaOa6stqRrSmyQ2UqFyfLc9LHArzHR3aIhymSXm35FGlu0t51vyqAOts/xSx+uEjEnBgH3xLjL7kVcqgPxFpE2lSO0NMSVaGpR1hRGsHuL2A32NhuOhPHF/PEl/h9Em0KBElwJb3Z6gzOaKlR1CxDa0XFjcEX9iOoOFTZq0ZLWl7wgOm1wf5jS0bO8FxkU+syHHYqgEpfRfmNgdAfrSPpO49CMWVVjmZtRXYqs1PJ68jG8Nc/S4/DZVTzDBjMttOmLTo8FsoVKI+FCN+h2v9iT0wtWY3o0ZuspUptcyoyOe62yvUzGIWVaQs+dXeKfkATuT07Ws7RFsdipb7rMMJKOY5cuOpvuP8IJ+EdfUnGSl1GO42UteJfrtYDCwq7iGnrsZVa7kde/vs//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAwEAABAwIFAQUHBQAAAAAAAAABAgMEBREABhIhMQcTIiNBQggyUXGBgpFhYnSh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAP/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMREiEi/9oADAMBAAIRAxEAPwCcUwqYfAkPkx4yVvuLQdw2hJUQD9LfXAp7OFYbgpmvZfebhrtpfWp8Nm/FlHb+8HKZTFVaGqI3PiU8VB5MczJTgQ2wyizjqyT8mxbzKrY15k2jwncjt0yXWzmuC8hSFypBbcS8g8p7uxSP1uR8cXssxsEOvcEw0eoT/qprdv5Ln+47q5qcmKSw6pTD4S80pR3U2tIUm5+Rt9MX7N/S3IfS7KOZ6+Yr05yTGVEisTFJdDK3LpAaum4O99RuQE84ztEUZGVqe6o3chrVCcP7ffbP4Kx9uBH05MG9ww8unw69S4MONI7GXG19kh8gNyCtVzZXpXsBvsQBuDy/5FpuZOnuXEZiotTbC3XAiVR5CCWnllelCBpN0u8GxANjyQCMR1mrRktaXvCA42uD+MO+Quo9MptbpqswJXPhRXkuoUkkOIKb6b+SwL3APHkRxgtr36UyNlRJ6Q+yi+01VJtanUPLTbRLzLYlSWWSV+OsWSkfGw1H7sRaaxFo1HmwS8mRMkFsudmoFpgoJI73qXuQbbC53J4O5/6kRK/XanLpylxWJjhKnFg9s6jgJJHupsB3Rz5k4QJdRjuNlLXiX52sBgRM+mMUrPRZ5//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Demolish Mul'gath</div>
+                                                <div>Dedicated Brigadier</div>
                                                 <div class="unlocked">1 May 2026</div>
                                             </div>
-                                            <div class="description">Defeat Mul'gath, the Twisted One.</div>
+                                            <div class="description">Complete 25 Objectives.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+21 others...</div>
+                                            <div class="description ellipsis">+26 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1502,7 +1502,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 May 2026, 18:43:55 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2026, 19:49:25 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
