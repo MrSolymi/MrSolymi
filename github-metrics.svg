@@ -1449,7 +1449,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        8 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1466,32 +1466,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            31 / 114 achievements unlocked
+                                            34 / 114 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgDBQYE/8QALxAAAgIBAgQDBgcBAAAAAAAAAQIDBAURIQAGEjEHE4EiIzJBUWEIFBVCYnGRgv/EABgBAQADAQAAAAAAAAAAAAAAAAIAAQME/8QAHREAAQUBAAMAAAAAAAAAAAAAAQACAxESIQQicf/aAAwDAQACEQMRAD8AHGMLQTgTzk16yvPI6HcRopYgH009eKW5zzfqSrHaxCxSMiShGsSa9LgMp7/MEH1HHZlW6OWbPlsqyZCaOkjMdAF1DyE/bZAf7PDKcuYaXJ8843IZnwrrVclWRIZ8xJeR4QETpV4kGvWdgFJAIGm+3G8klOoIl/aCWC/znkqDomQwUlZnXrVZpJoyy/Ua6ajiXOdUlxlglZoJgs0TMd2jdQy6n+jp6cON44JiIPDbO5DMY+rcatTlSAzIpZHkHQOgkbHUjt9OEvqsbHK2PlY6yU3anIf4/HGf8Lj/AJ4LJCTRU1TqKvXoU87iqVOtYMNut5nlpOQEsdbanRuyvsBodiANwe+kzHJdqDCYq3V5ueW5C6VpKs1iRWhnPQQkA+IhQ412GhU79hwOIctWWLpm90B221B/zjbcheImJxvMGMm5ii/Ua1OQNHIARNEB23I9tR3Cn6bEcGaLXs0rnn8cu6w9RN/EJfyLYPl7kn8y2SyCxxzXpo9C00ijRQVG41Or7/Y8A+7DVw2Hu0TMti3YMZk8tgYoChJHtfufcg6bAE7k9rvn3xHqZ7OZO1jmetDdkYvI4PnSp2Ckj4V0AHSO/wAyeMFbyNeSMrF7zXvtoBxUcdHTilHC7W3n4F//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwgGAwX/xAAuEAACAQMCAwYFBQAAAAAAAAABAgMEBREGIQASMQcTMkFigQgjQlGhFCJxgpH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgD/xAAiEQABAwMEAwEAAAAAAAAAAAABAAIDBCHwERIiMUGR0YH/2gAMAwEAAhEDEQA/ADi2F4JwJ5yaenV55HQ7iNFLEA+2PfhK7J9EXnXenprvXd1aIZUJoY2aV3m38bAkYj8gRufbcpur9zpOulU/urZEpEPoHzJD+EHvxTHw7WmmsXZuL/eoJ6W5yxN+rqq7mDCniJ7sDm8MYQAgDbz4SSbmWDwkLCGhylu66zrrZc6uhrLSqz00rQyKZ5VOVODsdx046X0O9a6wSs0EwWaJmO7RuoZcn+Dj24W/ij05py50lJqnTc9rataTlrhTzAvOrcoR+UbEg9TscEdeB9Mz6Xt07eOkd6KQ+nxx/hnH9eJZNq/aVWzjuWlt9Ja77QW63tUvSzU7vymQDknDsC2DkBXwAACcHAGRxSdNdKewaX01abJeHFJ35p6ituEZkaMBS3dyDbkJJCjOMDp9+I8hu1MsXLN8oDptkH/ON1oftSitU8dNcZzUUmAgcpzsij6WDDEielunkRwFVTuGskBufHzP0JY5Wu0ZJ0MvntOtElvm0retK6guMV1ttHGsVPcBT87GRg2Y0G/O6dQRk+Z6cTdfFoLPaq62wzirqZ3RnZCO7h5GON/qcgkHGwydzx6uue1FL7K8FBIKO34KBUj5C6/bC7IvpHX6ieD2ruNPJGVi+ZnrtgDiaamdoHzG46H3Pa0szbtj6OWX/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Elite Operative</div>
+                                                <div>A Burning Love</div>
                                                 <div class="unlocked">1 May 2026</div>
                                             </div>
-                                            <div class="description">Complete 40 Objectives.</div>
+                                            <div class="description">As Aldric, heal a fellow Wizard with Fire.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYIBwX/xAArEAABAwIFAwQBBQAAAAAAAAABAgMEBREABhIhMQcjQRMUIlFhCDJCgZH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMREgQhQVGB/9oADAMBAAIRAxEAPwDPKIAie03NmelDZ1PPvpBPptJGpRFt+Bb+8AR85qj1ZcWt00sJ9Ba0lEhwHWWipm4PhRKNrXsrxjoRKf7+l+kt9MViqTGqb7txPbaB+ZKj4BIbB/BOKFyzSHarn+HVaz0qYp1UaQESas7NbW2goRZKmkC+s7AA2BA87YtbbhsCKX7wJOLeaJCqpSYEjLtRjyHUapKFKd9RwXJJaQbbaAOTa9ySBgDMHcnuCI4sxX9LzCnCNRaWApOojk2IB/IOLW6nVamZaylUK/U4bUhURktouhJc7hCClJNubi4uL2xEqUJfylS5SF61R1uQ3RoUA2LlbYudj8VK4+hjEsJbBhvhtTGSnQaFW6axEmPTG5EVDntmUqQhEpalXsparhB4HBuABscEUZvMsTNsClTcw1ajOtOJbau848IyiPgkoCtxukEfR4wjM1aMlrS92gONrg/5h56edR6TSMwU17MDAqMeIsFp0XDrNuLH+YHISePBGJ30bHZD3OXkcZmIao4Pmax+pKRUp1IoNAC2Zag4hyaI7qQ488E7ANXKkjcquRbcfWMLr8amUKFUKdAmrnmQppZVpCURynfSTchTguUkp+PNifHQzx1FiVmrVN6mrXHjzXluOPOJ77ySbBJI/ai1hpB8bk4Q5dRjuNlLXcvztYDBXVg7uY1VLFzZZ8Hqf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAP/xAAvEAABAwIFAQYFBQAAAAAAAAABAgMEBREABhIhMRMIIjJRYoEjQUJhcRSCkaGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhED/9oADAMBAAIRAxEAPwCcUxSmHwJD5MeMlb7i0HcNoSVEA+1vycE8nSKjmjLtcrUZiE3HpDWuQ29McbUpSr6EoO4N7Hm3lvhbrb36fKkxaD35ziYiD6BZxz/ED3xYeyxkmnVPKc6rKe01NFRTpWGiel003CSFXSsHVfi4Pzx1dKwpOcw1hVFoSJUiI2ZZcS2WTMUFFRTqJCL6tNr2Vxx54A1zU5MUlh1SmHwl5pSjuptaQpNz+Db2xcO1FkCHGy/MzMzPDa1uMpcZfZLzjzlyAEOk3QLHccd0fYYgsVRkZXgPK8cRa4az6fG3/RWP24k1oDq4ESu0uDDjSOhMjdTpofIDcjWq5sr6V7AWOxAG4PN87OeZaTRcrOZbq77VMqcaS4solENdULN7gm244I52GMwM1aMlrS98IDja4P8AGGKlZwpkhLcKuOF9lI0tSUpJdZHlv40+k7j5EcYtpUgaA7Q+bqdUssKyrR1t1KoznG9YjkOBlKVBXI+okWt5XJxnCaxFo1ImwS8mRMkFsuBtQLTBQSR3vqXuQbbAE7k8d6rm+npaXEoylRoqxpW8UkOvj728KfSPcnCtLqMdxspa+JfnawGMpKUD/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Brigade's Finest</div>
+                                                <div>Mighty Enchantery</div>
                                                 <div class="unlocked">1 May 2026</div>
                                             </div>
-                                            <div class="description">Complete every type of Objective once.</div>
+                                            <div class="description">Activate 14 Enchantments.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+29 others...</div>
+                                            <div class="description ellipsis">+32 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1502,7 +1502,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 May 2026, 22:00:08 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2026, 22:54:54 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
