@@ -1454,7 +1454,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        9 hours played
+                                        10 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1471,32 +1471,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            37 / 114 achievements unlocked
+                                            40 / 114 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwEFBgT/xAA1EAACAQIEAQgHCQAAAAAAAAABAgMEBQAGESExEhMjQUJicYEHFBUiMnLRF1FSYZGUscHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAhEQAABQQCAwAAAAAAAAAAAAAAAQIEEQMTITFR8BJBkf/aAAwDAQACEQMRAD8AOLWXhqAJ5yaenV55HQ7iNFLHQ+Wnnig+0Gqbf2ZH+5k+uLmq1TK1wlj3esdaRPlHvyfwg88IVT6Lcg26oocsXW53OlzPVUaTivYj1ZZH4Lyfw67cfPEuHaaaoM9C1KZBIc/1HXbIz+XrMn1x2X9XaudIZWaCYLNEzHdo3UMup8Dp5YUsveiTKQq4MqZie8R5xqUkPOwjoIiupVl20ZCBrqfDY4MrlSvFZaTnGV5aCaW3SuvAhWLRnw0LgfLhaLoqivECkwWBf2yO33a1UdvSY09VAZDHzxAjnLnU+92X2A32IA3BxvanO+YhZHs1bBSvIsBo2mmgBmEZGhXU/wC68BsN2pli5M3RAcNtQf0xrcuZ/oV5uivcjVNKo5Mc4UmWAfdqfiXunh1EYzvmNw7lI88TvvwCVxgwi0Oes2JZI7RTTiVyhhScx8qcKeyG/vBjmOaht1oq7bHKtTVTOjSujAxQlCToG7bbkHTYancnhOY8/UlSklJaHaloXHJeQg87OO8R8K90eZOMXV3GnkjKxdJrx20AwrJjaipUPPop13jQFrnBD//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAwj/xAAtEAABAwMEAAUBCQAAAAAAAAABAgMEBQYRABIhMQcTIiNBMhQVQlFhcYGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAIBEAAQQBBQEBAAAAAAAAAAAAAQACAxEhEjFBUWFx0f/aAAwDAQACEQMRAD8AOKYVsPgPvkx4yVvuLQeQ2hJUQD+uMfudbz8K5o0mO0qjxajI2LdlQoE9xTsVsBOFuK5SkK3pKSCcjOsaGuCijTPvBtbrdQUmG2lvIWQFJcc2noEhITk5A3cjSVdgl+HLSLe8G6a4ZT1NFWqNU2pkOmOMhGCcp6BPA54wNWva41SZpJUbWKVdVJVSmZ9JitzqoH1RYH2p5chYbUkfSkHJUFZAHwkk41I3G06ipOsoWvynNrrZcBClNrSFJzxno/5p5prdVuOazZviLUoc2rJp6axFnR0hD8Je3C2X0jAPpcP5ZGc/GgmrFD9PadamSJyIbyoIkyEbHHWx62lEblY4KgOTwkaFrXUbW0mrVLbsll2E0zSp66dVmWnm477iiEub87kgjgLUMI9XGAMYOmKmwYF1xqPOo1SmW7clupZpjch9kbXgU8NLbzynKVDn4yT3rzEzVoyWtr3tAdcZB/rVhb3iLGRTJNEqz5egSS376UEvMlvJRyfqSNx9J+DwRq2KeNwDJMe9d2OcJ8UrSA1+Pf0cpttu3oNn0a57mhVBN03RKih1bjjSvLUh5eAAM5O4g556A6HYRdcqNGpz0EmA7KUhpCzBaDbLQQoqAJ/G4NxRnoAYyrXe4fEpMilppFJkuRKZ5SGXVAEOSkoKinfjpPqOEj+c6g5dRjuNlLXuZ74wBoZ52AvbHkE7nevnC5LK2y1mR2v/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>I Can Do This All Day</div>
+                                                <div>The Astral Riftlands</div>
                                                 <div class="unlocked">2 May 2026</div>
                                             </div>
-                                            <div class="description">Attempt a Severe Mission.</div>
+                                            <div class="description">Complete a Mission in the Astral Riftlands.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYEBf/EAC8QAAEDAgUBBgUFAAAAAAAAAAECAwQFEQAGEiExEwcjMmJxgSJBQlFhFYKRobH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAHBEAAgICAwAAAAAAAAAAAAAAAQMAAhIxISIy/9oADAMBAAIRAxEAPwA4pilMPgSHyY8ZK33FoO4bQkqIB9repxxImeahOlNRodG68l1QQ2y086ta1HgADcnGqtO9DKkxaD8c5xERB8g7xz/ED3wodjcTK3ZlDyvmzME1/wDVK5EebQyGgpDaFOJ0uauUkJTY251HF2txMWzBXcIpOe5kaS6xJpCW3mlltxtUh0KSoGxSRfYgi2NVd1OTFJYdUph4JeaUo7qbWkKTc+ht7YWO1Gh5J7Rst5sztlUuMVWmtoU+go6aXiFnU4QDYlSbi/N0i+B2MoyMrwHT44i1w1ny+Nv+isftwq2ZGFbgzuqgRK7S4MONI6EyNr6aHyA3I1qubK+lewFjsQBuDiupdQodVyZHyhn6LMiPUpShAqEdu7ke53QtB5H4+1uOcFzNWjJa0vd0BxtcH+MUVJzjTZAbh1twvspGlqSlJLzI+2/jT5TuPkRhHqJ7UPMi5VvVNyzrdVotPyOvJfZ/HmyRUXUrnzX0WckkWslKRwNht8h6k4PJrEajUibBLyZEyQWy501AtMFBJHxfUvcg22AJ3J40VbOFPDbkWjrVHjLGlbyknqvj8keFPlHuTiWl1GO42Utd5fnawGMSojtc8wSu3q+5/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EADYQAAEDAQUDCgMJAAAAAAAAAAECAwQFAAYREiEHEzEUIiMyQUJhYnGBFRfRM1FScoKRlKGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAQDESExkRMy/9oADAMBAAIRAxEAPwDnFMUph8CQ+eTxkrfcWg6htCSogH2w9TaeO0OQdfhrX8lz62QrT24upMWg8+c4mIg+QdI5/iB723bIdndLvK8xULx1HklMRMSwtkoKC8jKSVBzgkBWVJ9ezS1LFhcX6McKW6gHzCf7aY2fDlLn1turmZyYpLDqlMPhLzSlHVTa0hScT6HD2srtj2d0u7ch+o3YmmXS1zFMBlCFLEdOUFJLvAgqzAenE62AiqMi68B1X2kRa4a/y9dv+isfptmHOMvIMCpHcdXAiV2lwYcaRuJkbPu0PkBuRnVicFd1egGB0IA1B477uXgrN1aRWaHuc7E1osLakA4sHXqjunE46duuto1mrRktZXuiA4aYg/taipN8abIS3DrbhfZSMrUlKSXmR92vXT5TqOwi0rdYZRtfIyPruJXrvBV72QaTSGmC1DhspjtRmMSXSMMVL/ESRm8CTadmsRqLR5sEvJkS5BbLgbUC0wUEkc7vL1IOGgBOpPDRVr308NuRaOtUeMsZVvKSd8+PEjqp8o9ybS0uox3GylrpMeOmAFlq1/moLeQd9nif/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Betrayal of the Highest Order</div>
+                                                <div>A Moderate Success</div>
                                                 <div class="unlocked">2 May 2026</div>
                                             </div>
-                                            <div class="description">Take Damage from one of your teammates' Spells (or your own).</div>
+                                            <div class="description">Complete a Moderate Mission in each Realm.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+35 others...</div>
+                                            <div class="description ellipsis">+38 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1507,7 +1507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 May 2026, 19:36:11 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 May 2026, 20:42:03 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
