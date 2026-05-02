@@ -1375,7 +1375,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.77k hours played
+                            2.78k hours played
                         </div>
                     </section>
                 </div>
@@ -1454,7 +1454,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        10 hours played
+                                        11 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1471,7 +1471,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            40 / 114 achievements unlocked
+                                            41 / 114 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAYHAgUI/8QAKxAAAgEDAwIFBAMBAAAAAAAAAQIDBAURBhIhAEEHExQiMSNRYoEIMnGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAIDAAMBAQAAAAAAAAAAAAEDAAIRBCFREjH/2gAMAwEAAhEDEQA/AETSlurLje6W3QOZG98hKHB2Ihc4PbhcfvraVsNy9JYJaCkmeS4UzTVC1UNVD6dgNxVRgtKApUkoD89genX+PGkaHUdTeK67UyVVBFGtMscg9sjMdzAjuMAcH79Oup/C2PbR194vN0rLXZKCrVI4pDHOA2AiqYlBKiNSpXuf9PV2sItgjTnTUN2utl9PJJQUdXS1Uay009NVy7ZwW24VWw24HgqRkcH4IJC1TTywXeppUlJjLB0YsGJRgGGWHBIBwcdweqLfNAVtz8BNHTWdXrZYvMlUtJFCFDysy7mfkgDACAjkknsOkG72G62vTNpnu9KKeRHkpeHVhtB3p/UkDhmH+AdItpNsM3OpVPCPXcVmsC2G2vDS101Ujx1NbLsgYFvfvwDg4wP18jGCNrbXWtblerza/XQWOIVSjyRVeXJT7GyGWXIzkYzjj7AZ6i8N2pli2zfSA+OMg/8AOmK06xts6x0V7kM0KjbFUqp82Efb81/E8jsR8dR5ib2r9JPfksiyxbGSm3i/QXHw6tmjbWZbpUQRMZHpyVaRgdzcMMOjAyAqfcMK3zwJVeVorTb7jQQSmZp5FYRhwY6VVYlRuHDvglSRwMnk9srrrKhWnlorNI9PRyjEsrA+bUAffH9V/EfsnpUq7jTyRlYvqZ+eMAdJxkXwMce/INZQbVf57P/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Close Call</div>
+                                                <div class="unlocked">2 May 2026</div>
+                                            </div>
+                                            <div class="description">Dodge a hit that would've killed you.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1485,18 +1495,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EADYQAAEDAQUDCgMJAAAAAAAAAAECAwQFAAYREiEHEzEUIiMyQUJhYnGBFRfRM1FScoKRlKGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAQDESExkRMy/9oADAMBAAIRAxEAPwDnFMUph8CQ+eTxkrfcWg6htCSogH2w9TaeO0OQdfhrX8lz62QrT24upMWg8+c4mIg+QdI5/iB723bIdndLvK8xULx1HklMRMSwtkoKC8jKSVBzgkBWVJ9ezS1LFhcX6McKW6gHzCf7aY2fDlLn1turmZyYpLDqlMPhLzSlHVTa0hScT6HD2srtj2d0u7ch+o3YmmXS1zFMBlCFLEdOUFJLvAgqzAenE62AiqMi68B1X2kRa4a/y9dv+isfptmHOMvIMCpHcdXAiV2lwYcaRuJkbPu0PkBuRnVicFd1egGB0IA1B477uXgrN1aRWaHuc7E1osLakA4sHXqjunE46duuto1mrRktZXuiA4aYg/taipN8abIS3DrbhfZSMrUlKSXmR92vXT5TqOwi0rdYZRtfIyPruJXrvBV72QaTSGmC1DhspjtRmMSXSMMVL/ESRm8CTadmsRqLR5sEvJkS5BbLgbUC0wUEkc7vL1IOGgBOpPDRVr308NuRaOtUeMsZVvKSd8+PEjqp8o9ybS0uox3GylrpMeOmAFlq1/moLeQd9nif/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>A Moderate Success</div>
-                                                <div class="unlocked">2 May 2026</div>
-                                            </div>
-                                            <div class="description">Complete a Moderate Mission in each Realm.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+38 others...</div>
+                                            <div class="description ellipsis">+39 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1507,7 +1507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 May 2026, 20:42:03 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 May 2026, 21:46:09 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
