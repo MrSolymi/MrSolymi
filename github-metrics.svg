@@ -1454,7 +1454,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        12 hours played
+                                        13 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1471,32 +1471,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            41 / 114 achievements unlocked
+                                            44 / 114 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAYHAgUI/8QAKxAAAgEDAwIFBAMBAAAAAAAAAQIDBAURBhIhAEEHExQiMSNRYoEIMnGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAIDAAMBAQAAAAAAAAAAAAEDAAIRBCFREjH/2gAMAwEAAhEDEQA/AETSlurLje6W3QOZG98hKHB2Ihc4PbhcfvraVsNy9JYJaCkmeS4UzTVC1UNVD6dgNxVRgtKApUkoD89genX+PGkaHUdTeK67UyVVBFGtMscg9sjMdzAjuMAcH79Oup/C2PbR194vN0rLXZKCrVI4pDHOA2AiqYlBKiNSpXuf9PV2sItgjTnTUN2utl9PJJQUdXS1Uay009NVy7ZwW24VWw24HgqRkcH4IJC1TTywXeppUlJjLB0YsGJRgGGWHBIBwcdweqLfNAVtz8BNHTWdXrZYvMlUtJFCFDysy7mfkgDACAjkknsOkG72G62vTNpnu9KKeRHkpeHVhtB3p/UkDhmH+AdItpNsM3OpVPCPXcVmsC2G2vDS101Ujx1NbLsgYFvfvwDg4wP18jGCNrbXWtblerza/XQWOIVSjyRVeXJT7GyGWXIzkYzjj7AZ6i8N2pli2zfSA+OMg/8AOmK06xts6x0V7kM0KjbFUqp82Efb81/E8jsR8dR5ib2r9JPfksiyxbGSm3i/QXHw6tmjbWZbpUQRMZHpyVaRgdzcMMOjAyAqfcMK3zwJVeVorTb7jQQSmZp5FYRhwY6VVYlRuHDvglSRwMnk9srrrKhWnlorNI9PRyjEsrA+bUAffH9V/EfsnpUq7jTyRlYvqZ+eMAdJxkXwMce/INZQbVf57P/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwYDBAUI/8QAMRAAAgECBAMDDAMAAAAAAAAAAQIDBAUABhEhBxJBEzGBFBUjMjNCUWFicZHRF4KU/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEAA//EAB0RAAICAwEBAQAAAAAAAAAAAAECAAQDESEiQVH/2gAMAwEAAhEDEQA/ADi2F4JwJ5yaenV55HQ7iNFLEA+GnjifPEKpO/m2P/TJ+8VFrtM98pUtlCyrVXqqjtsTt3KvtJGPyAVfzixuuXOHPDyRKK4Wyrv9wKHnlncxpzdNFHQ/cnCs21xOE0SfwToF3CX+QZ+tsjI+VTJ+8bt+DvWusErNBMFmiZju0bqGXU/Y6eGFa05U4c8Q4zS2u3VVjubKeRoZDIikfFT0/GDvNdhqsvxrbbgUartM726V0OzL7SJh8irMP64Ne2uZinQR8MhXU7WWaqEtZntdX5HdrZM01MajQRVDM2pBPutsF0OxHUHC1WXTJeZGDZotc9ruyMWlDQmRefTQ7jfTrpt4480w3amWLlm9EB3bag/jFjlfiHQx9lQ352q6JRyxzBT20A+AJ9ZfpPgRg26i5vansqtqMsNbkWwVPlGWbdV3C5M5MUcUbRoxI05WJ90d/dgYz5d0qHvL1tQlZdblOk1Q0R9DTlSdFU+82h5dtgOpOMOZ+INHVpJR2Vmo7e45Xcg9tUD6iPVX6R4k4h6u408kZWL0mvftoBg1ai4fZPZmbfBP/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Close Call</div>
+                                                <div>Solar Pulse</div>
                                                 <div class="unlocked">2 May 2026</div>
                                             </div>
-                                            <div class="description">Dodge a hit that would've killed you.</div>
+                                            <div class="description">Use the Solar Pulse to hit 10 targets at once, 99 times.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAwj/xAAtEAABAwMEAAUBCQAAAAAAAAABAgMEBQYRABIhMQcTIiNBMhQVQlFhcYGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAIBEAAQQBBQEBAAAAAAAAAAAAAQACAxEhEjFBUWFx0f/aAAwDAQACEQMRAD8AOKYVsPgPvkx4yVvuLQeQ2hJUQD+uMfudbz8K5o0mO0qjxajI2LdlQoE9xTsVsBOFuK5SkK3pKSCcjOsaGuCijTPvBtbrdQUmG2lvIWQFJcc2noEhITk5A3cjSVdgl+HLSLe8G6a4ZT1NFWqNU2pkOmOMhGCcp6BPA54wNWva41SZpJUbWKVdVJVSmZ9JitzqoH1RYH2p5chYbUkfSkHJUFZAHwkk41I3G06ipOsoWvynNrrZcBClNrSFJzxno/5p5prdVuOazZviLUoc2rJp6axFnR0hD8Je3C2X0jAPpcP5ZGc/GgmrFD9PadamSJyIbyoIkyEbHHWx62lEblY4KgOTwkaFrXUbW0mrVLbsll2E0zSp66dVmWnm477iiEub87kgjgLUMI9XGAMYOmKmwYF1xqPOo1SmW7clupZpjch9kbXgU8NLbzynKVDn4yT3rzEzVoyWtr3tAdcZB/rVhb3iLGRTJNEqz5egSS376UEvMlvJRyfqSNx9J+DwRq2KeNwDJMe9d2OcJ8UrSA1+Pf0cpttu3oNn0a57mhVBN03RKih1bjjSvLUh5eAAM5O4g556A6HYRdcqNGpz0EmA7KUhpCzBaDbLQQoqAJ/G4NxRnoAYyrXe4fEpMilppFJkuRKZ5SGXVAEOSkoKinfjpPqOEj+c6g5dRjuNlLXuZ74wBoZ52AvbHkE7nevnC5LK2y1mR2v/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAACAUGAAIH/8QALRAAAgEDAwEFCAMAAAAAAAAAAQIDBAURBhIhAAcTMUGBFCIjMlFhYnEVkaH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAwECBP/EACARAAEDBAMBAQAAAAAAAAAAAAEAAgMEERJBMVFxsSL/2gAMAwEAAhEDEQA/AOcWwtBOBUTk09MrzyOh5EaKWIB9MevURHrO6TU808dkLQxSJFIwml9x3ztU8+J2nH66kztFnkPfvB7bMtOJUj3siJ8WRguRuPuoMZ5z0jNCaPoLDp2iuTW6bUX8pJRxxt3QDdyMNFNURklBJFlgXXyA889Okl/WI0mlhDQ47RjOrLosKTT2VIoX73Y0tTIgkMeN6rk8sMgY+/WX0NJWOsErNBMFmiZjy0bqGXJ/Rx6dJDtF0XRXnTlddqmik05S2tqqJlCKx9mVizPDECE3zEKCWPK8efRxracpZaNsyMtM7UwkkiMReIkvE20k7QQXAH49VZKS6x2jC7S4aU3b4KW6QWynpq+ooaimZlB3BO/V3Bba2RtkwAACcHA5HmiLT2oaXi01HbNQirpN6yUr00xkmmEQyuZWGWBI+pznJGBg9EqG7UyxbZvhAeHGQf66sVp1jbahY6O9yNPCo2xVKqTLCPpz86/ieR5EeHSamF4vJBz0VvpJqeXGKruGjY5Hvf31JG99pul6nTJtlhWqq0UxUop4d8Mwi4G6LOCxUf6BkYyejTf5I6KkuNNUV8tyral03yvJuWEIxK5fne+CQccDJ5PlrdtYW8RPS2d2p6VxteZlPezj7kfKv4j1J6qtXcaeSMrF8TPjxgDqIInm0k3PQRVzU8eUNJctOzyfOvvi/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Astral Riftlands</div>
+                                                <div>Hot as the Sun</div>
                                                 <div class="unlocked">2 May 2026</div>
                                             </div>
-                                            <div class="description">Complete a Mission in the Astral Riftlands.</div>
+                                            <div class="description">As the Sun Mage, complete a Mission in the Pyrestorm Pit.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+39 others...</div>
+                                            <div class="description ellipsis">+42 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1507,7 +1507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 May 2026, 22:31:07 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 May 2026, 23:30:30 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
