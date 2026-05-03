@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1100" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1115" class="">
     <defs>
         <style/>
     </defs>
@@ -1459,7 +1459,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        13 hours played
+                                        14 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1476,32 +1476,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            46 / 114 achievements unlocked
+                                            49 / 114 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAcIBQb/xAAvEAACAgEDAgUCBAcAAAAAAAABAgMEBQYRIQAxBxITMoFBYiNxkaEUM0JRUmGC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHREAAQQDAQEAAAAAAAAAAAAAAAECAxEhQVESgf/aAAwDAQACEQMRAD8AXGMZoJwLE5NesrzyOh5EaKWIB+NvnrDh15esEiDD+oR3CTStt+nRmZl9HStt0YB70qVEP2DZ5D+yD56eEGTveHD19NaWWpj68LwQVrN+uDBk52RZJ5Zpgd41VXXbYfX4Gs03l1JoRPreINgMQ+Mj3B2K/wARID+Xfo7OeaS4ywSs0E4WaJmPLRuoZdz+R2+Ond4maUxPiv4aLrXCV6WPz9P1BaCOoSYoxV0Z+Ax43Rj3BA+vCHqsbGl6ErfzKjtTk3/x98f7Fx/z0Y5bdS7Ibr0KmdxVKnWsejbreoI0nIEdjztudm/pfgDY8EAcg93/AKXxWk9WrWZczksXm4cUMNfqzPGkssQXYhg6kE/cvO23Uuw5assXlm/CA7cbg/p10WK1jjbAjp5uQzwqPLFaVSZoB/bn3r9p5H0I7dCeC1V7MrwVlN3tQaR8MNMpgdMVo79tmJix9d/VaSQ92kbnbsN/rxwOpk1ZejZ81Lbas+Sycyz2EqALXrMrb7KR7m5IO3A3PJPYfK6vxyxSVcMzV6rjyyTMpEs4/wB7e1ftHyT1y1vI15IysX4m/fjYDqRRLh7/AIhL4f/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABwgCBgMEBf/EACsQAAIBAwQABAYDAQAAAAAAAAEDAgQFEQAGEiETIzFBFSIyYWKBFlFxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMRMUEEIVGR/9oADAMBAAIRAxEAPwAcWyUkPAqHk09NGb2TgewuETIgH9Y/euV/MbsU1DvgUgtDIJaS5vlznnjEjOQTxOP81u1Xg/AXBzmJXcHQo/FWotlFY8xhEQQT6LGPvo9UNPYtg7ZtFyvFNVbhq7rFFPQICAHVMICLEzqFkmIanJj4gORHA1a23GwdR4Yux3fdfBpmmxSK6mU4JIc3zDDHMR9zjIzqd85MrJRQ2UkPEXKlI9yXOIlHJ/w4/WmEutFt7fmyrne7BF1mjb4VNDXLUqLG0se5vFPCJ4FjjxBZnuORpeGwXKx0pS2bo0LZ0RZNZWZQ+tZMSSR0ZjH46KW62HubPUs9jZF4tcLVdqy1VtNKURNbPDL4TmDLjMEcZ4AAB6OB2Pcwbg3PtHc227bR7mrLxZbnRtYKdyWTnVoj3Elkhk/PHAIPZPYAGDpa03amiri7ygPTrIP/ADVitO8bbUBdHe2F6YjiqpjElyR/Xf1x/E9j2I9NR8mlsL08noy1ToSFs/RDnt/c2zNqbLqLNs5tyr2vqQXyEpKq2mZAk1ZwMkAdY9CBkYydArc1WVIuSq+51F2uFTOHNzW8wmMJExBmc8p4JBx8oyez7Ybtu+3hbKWzzlT0sxxm6UT4rx9yPpj+I/ZOqtV3GnYsxV5mfXrAGj49L4Hu5+Ca10BK18fTP//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Wizard That Could</div>
+                                                <div>On Thin Ice</div>
                                                 <div class="unlocked">3 May 2026</div>
                                             </div>
-                                            <div class="description">As Reginald, augment the Astral Orbs 4 times in 1 Mission.</div>
+                                            <div class="description">As the Sun Mage, stay on one ice patch for 90 seconds.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAgF/8QAMhAAAQMCBAMFBgcAAAAAAAAAAQIDBAURAAYSIRMxQQciI2KBCBQVMmGRFjNCUXGCsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAeEQACAgIDAQEAAAAAAAAAAAABAgADESEEElEiMf/aAAwDAQACEQMRAD8AXNKUWJKRKfUYsZKn3VtnvBtCSogE9drD6nFnKUnMWbosuRQ6PHlCKpPFjtTVLkBBUE6w1q1KAvjiVp73fKcxxB781xMRB8g8Rz/ED1w/PZZoWW/hEiot0l8Zhpbio7s5xwuBaVjUA3pUUjumxSLkHrvitlv31Ecg4zERmLMFdy7WJdLrWXzGnRUhbzRkOHSkgEG4JFjcb364r13U5MUlh1SmHgl5pSjuptaQpNz/AAbemH77RvZ23mtpmvZbo9Qk1tNkyl6+A0Y6Eau8HLd7cAaetweWM8RVe85Wp7x3XEWqGs+X8xs/YrH9cBLSW6mbGswgEKFXKTDhR3Q1LjlXDS+QlL+pVzZXJK+Q32IA3B56I7Ea7Do/Z0KXPep9Nkw3eAEALQpC3CdPG1ADiE3uQbWtyxlFmrRktaXvCA5bXB+2CKlZwpsgNw644X2UjS1JSkl5kftv86fKdx0I5YjyKWBNtOz5KoyMAlmh7HBmftHRXuzz8MyFVtzMS2iyZUVCEJkOJJSQoBd9CgCFC3U4SM5qNRqPNgcVD8qQpCnEtkFqOUm4Gr9atyNtgCdycTVbN9PS0uLR1qjxVjSt5SSHXx9SPlT5R6k4FpdRjuNlLXiX57WAwnGofVlx35Da6DK1/k//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQP/xAAvEAACAQMCBAQFBAMAAAAAAAABAgMEBRESIQAGIjETMkGBBxQjYpEIFkJRUnGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAeEQABBAMBAQEAAAAAAAAAAAADAAECEQQSIVEiMv/aAAwDAQACEQMRAD8AnFsZoJwKic/L0yvPI6HcRopYgH2x78YkfPVfMCYrPrGhpOmaU9K+Y/6HqfTgq9TfL8qVkiHD1siUqH7BiSQ/8Qe/Fp/TVY7DzRQQV1db2a42iZ5hNG6LA8kpGToHUrBUCkEBWBJ3ztUhvvVk7ty1DJedrhEW8ayMukKzBpZhs3l/Pp/fBPMMcwr3iVpFjlCTR+KMMY3UOufYj8cXL42c80/7ovnKF8s6S0VPSrVUlQjiNlIiDqS2c41grsCRnI3HERusq11sgrY5pJ1jlen1yMxfQSXjDFtyQC65P+I4yBblq6NXq1oxU1PdaG3Q0FUaavoi7QibSEnLNnYnZX2AwdiANwe7xbfiDzfyxRVNCzUVFVwtHqV6SMTP04K4RAP5h+o5GnHqeJBDdqZYtM30gO22QfxwyWjnS3zRpQ3uUzwBfDiqQpMsC98b+ZftO49CO3HPl483sgH74rhJB6iRuJvv3PfO15hCTTxmWokMMaR2+Fi4Xv1FWOckbdhk8Id18G3W64U09QlVX1bI03haRFAVYnYjZm3IOnpGT3PbreOcqExvS2mR4KZl0PMynxZ17YOPKu3lHuTwqVdxp5IysX1M99sAcLi482ohn74gxIfkbcX/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Screw Leg Day</div>
+                                                <div>Perfect Synergy</div>
                                                 <div class="unlocked">3 May 2026</div>
                                             </div>
-                                            <div class="description">Kill 433 enemies while standing still.</div>
+                                            <div class="description">Infuse each of your 4 Spells with a different Element during the same Mission.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+44 others...</div>
+                                            <div class="description ellipsis">+47 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1512,7 +1512,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2026, 18:36:26 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2026, 19:38:15 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
