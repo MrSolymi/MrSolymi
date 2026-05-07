@@ -1498,32 +1498,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            64 / 114 achievements unlocked
+                                            66 / 114 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBAX/xAAzEAABAwIEBAMECwAAAAAAAAABAgMEBREABhIhBxMiMUFxgQgUI1EyQkVhYnKCkZSi0f/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIhETH/2gAMAwEAAhEDEQA/AFxTFKYfAkPkx4yVvuLQdw2hJUQD6W8zgePEOQfs1r+S5/uOjWHOVlaUWyOZPdRDbJNukELWb/LZseuDLh/wJmx6/Bk8RWjApKnQEMNKD6parXCLtk6QfHxIva3fHXdaUxZeiZoruVZFejUZhEcXERlyU4l2oFNysMC/UUpBP32IFyDgWrmpyYpLDqlMPhLzSlHdTa0hSbnyNvMYoL2t5CaRkvK8emBMVxipodjBpISGuU2q2kDta4xOrTy52XIcp1Wp+O65FdUfEElxB/ssfpxiG3oO07T4lepEOHFkciZGDgaQ+QG5BWq56uyV7AWOxAG4Pew+GRju5Ugobm++CMlDaG3EWch6W0pLSr9WoEK3VudXytiGmatGS1pe+EB22uD+2CrLmfmI7jbE2dJQEjS3MjqUh9kDsCRbWj8J7eBGLcqvGBne1O+5W810WiREqeVDZU4W0C55jpFhb8qAfXCZmsRaNR5sEvJkTJBbLnLUC0wUEkdX1l7kG2wudye2/MWeo8x19MSU/peFnpb5UqRJHbqVvpTt9EHzJwHy6jHcbKWviX77WAxFxIH/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYIBQf/xAAvEAABAwMCAwYFBQAAAAAAAAABAgMEBREhAAYSE4EHIzEyYWIiQUJRcRQVUpGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAMC/8QAHBEAAQUBAQEAAAAAAAAAAAAAAgABBBExAxOB/9oADAMBAAIRAxEAPwDnFMK2HwH3yY8dK33FoOQ2hJUQD0t10fs9W4d1Nh6NT6fCiq8j02c42F/fhAupX5At66xakvlbUnOp801xENBH8B3jn+IHXXRuyaAEuNTdzw50CNKirlRp5QgxAy0APjsboHgB0xnSdIPkNhqoLXqxN50Td+1qUqqSKPBqFLRlyTAmuuJbHuBspI9bW0l14KXNWlh0qYeCXmlKOVNrSFJufwbdNWLtjcFFmwJK0tpTTm2SZD0pPD3fDkrB8oI+R1KG9JsKsPyKlSWG48Bqa9EabbRwJSzcrZsPkOEqHTUIEs+7UeoQ0ioMWnVymwKemSYsmOpfL5xAbf41An4vpXgAXwbDIOqY2zH29Q6DT9nfuLklTiFuRxJCbpuq4QcWSbk2BGo3Zq0ZLXC93QHhi4P9acdr9ocFotQa6syoafhbfSk85gehPmT7T0I1WZG9msX+IJUmXeD9XqzjtDiRv0NPQ+oGBFUV81wHK3F+LivU4+wGketCDSKPMprbyZUt9TanVNqHKYKCcBX1qyQbYFzk6L3R2gw5aXYdFUqHT1gpWsg86QPcR5U+0dSdI8uox3GylrvL+OLAa1H4+YtaEV4v/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ludwig</div>
-                                                <div class="unlocked">6 May 2026</div>
+                                                <div>Arcane Broadsword</div>
+                                                <div class="unlocked">7 May 2026</div>
                                             </div>
-                                            <div class="description">Unlock Ludwig.</div>
+                                            <div class="description">Kill 9 targets with one Arcane Broadsword.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcIAgX/xAAvEAABAwMCBAQEBwAAAAAAAAABAgMEBQYREiEAByIxEyNBQghhgZEUMlFicYLB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAQEBAQEAAAAAAAAAAAABAhEAAyExUf/aAAwDAQACEQMRAD8An1vpQipx26jLW3T2CXpL7Q1KbYQNSyn54Bx8zxReZtBjUC3Y112n4ldtV1hRceRKUXGFkEIWcbFvVgKGAU754J2RS11BtxTNYTSXJj7VOYkBGta1uZ8tKPcFHQFZ2CSrPoCi5bw6lY9E5j2ZWWULuCZFU7TqavdmUPDcCls56VbEHSNzpxjbbp6Mb5kXhmOcrFSeYV7Q6XDpb7NKDaHZsovOEtpCevB7brBSn/cHjxOZlGeoV61ijBxZbYkHwlOHqU2oBSMn16SONC/DhBnxOUVGdpT0J5LwWSh9pTZQovq1nUM6ukYAwMkd+Jp8TgiPX2p+IlSX47TUaWT2KykrQR/UkfyniVYlocBsVtgw36nbTseT+HlUuYh9CXyA2+PFCj1e1eABg7EAbg99T8w7RgXOIUmpOCMzT8yG50bKZUdY3BQrBGk4GRj0+2IWatGS1pe8oDttkH7cUvl/ztnW/CVSX6gXoCklLLq2y45FP6pz+YftP04pxYQcig9P7m9swrpkUC4ZFjVOQxNp1QchtwX5A0pjaTk+Gry0OBQykpwNlDiS3lUG3E1J6dLE2uVJTbs9TSEIYZcQfaUnC1EbEjAGT344r1/x3mX4lJfdjRZCdMp46g7N6irU5jYDJPSPqTwLl1GO42UteZnvtgDgoGz58pC33f/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBwT/xAAsEAACAQMCBAQGAwAAAAAAAAABAgMEBREAIQYSEzEHQVGBCBQiI0JhFTKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHxEAAQUAAQUAAAAAAAAAAAAAAQACAxESEyEiQYGR/9oADAMBAAIRAxEAPwDOLYzQTgVE5+XpkeeR0O4jRSxAPtj30Jk41r4KmKGus0kDSosiKZJeZlcZQgEjIORg/vXRdJEi4ZqWZygrpkpA4GSIwQ8hAyPRB76euDPBq9G9WWs8SJpaazUxSOljgkWd5sZdYwYySo2zkZJ7DHcayzU7I8K66WuCy2ni+6WOtuUlhjouk3SpqarqJYpa6UAlo4VJyWChj+8YGTpOvod610hkYwzBZomfuUdQwyfUA4P7GqH+LetnouBrTFDyQyLd4paVo2PMBHE5yRjYhiMYztjU71EgrLJSVXzJqZYZGgnlKFCS33RkH0LSLnz5dDJbdkoo1aKtb6O/Wuioqap+Xq6bqCNZ8COcu2Tv+L7AYOxAG4PevfClIhwZbEWqknWGJFjgmj5XpOVAjRnP1Ehlfc+u22NQ9DdqZYuWb7QHbbIP+acOD/EaG23Gjerq5S1Ow6NVHzCWIA/0bt1I/IqfI7EamWGnGRnxXoOGSte+Ja4TzcRWW1w22OvVaWUhJYyy9SX6QRj8gEJ99YJWQUtls9ZQGZamrqDGZOmwMUBQ5H1fk+5BxsMncnsc408Tv5zlghqpEp1V0M7hutMrOzEE78q5YgKPLAJOkGruNPJGVi+5nvtgDWcUHdyPPpLpAG4av//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>No Honor Among Knights</div>
-                                                <div class="unlocked">6 May 2026</div>
+                                                <div>Corrosive Swordplay</div>
+                                                <div class="unlocked">7 May 2026</div>
                                             </div>
-                                            <div class="description">As Hatti, hit Ludwig.</div>
+                                            <div class="description">As Ludwig, infuse your Arcane Broadsword with Corrosion.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+62 others...</div>
+                                            <div class="description ellipsis">+64 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1534,7 +1534,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2026, 10:13:40 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 May 2026, 12:59:58 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
