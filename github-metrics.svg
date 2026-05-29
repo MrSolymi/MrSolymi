@@ -1470,7 +1470,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgUHCAEE/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAUGEQAHIRIxQRNxgWFykRQiJDJR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIRADH/2gAMAwEAAhEDEQA/AJC1LCpFfsCJIW4pmqOKUfXCcgI6/wCuAcFQx3PgkY7abW1t9asL02XaUmc8Ry/KWVkn7eAB8altnaVAou2tMky0BTs3MlXUnq5UeAB9oGnamIy46ZMRKAkjOUjGRrdU7726p1N6rbksC1p3qstUlEF0cB6KooIP+9PKT8jVY3xt7Ht2hqqMapOPFDiUFt1CU9XUccEedaeWliPBXLfaS4UjOCAfpoLuzTolw7aVSS3GS1Ig/wAlGAOCjv8AlJI0mnes27m93ZypQq7ttTYshR9WDmM5g8pKe35SRprOfEaChiA11gYTjngayPYd4TrOqpkxAHYzoCZEZRwHUjtz4UPB1oCibn2rVGEqVUkQXiP3Myx0EH37H4OrcI7y4R051TJZcilE1rp5IwRkEe2h+89Zi0nbmpMMhKFzE/pWkgYypXfA+iQTrzVrc+1KWwpaamia6BwzEBcUo+/YfJ1QF/XjOvGqpkSgGYrQKY8ZJyGwe5J8qPk6RCvIhXXv/9k=" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Risky Move</div>
@@ -1502,7 +1502,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2026, 14:40:05 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2026, 18:34:35 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
