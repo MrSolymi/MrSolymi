@@ -1466,7 +1466,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        24 hours played
+                                        27 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1483,32 +1483,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            15 / 49 achievements unlocked
+                                            17 / 49 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUHBAj/xAAuEAACAQIDBQgBBQAAAAAAAAABAgMEEQAFEiExQVFxBhMUFTJhgZEHIjNCQ9H/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQMAAhEEITFB/9oADAMBAAIRAxEAPwDmmOIzPZSAALszblHM+2CzGkhGmFJZm4SudC3HELxHU/GCse7oFiQ2eZy8nPSvpB+ST9YdZ1XNX9l8rooqIqaVA/eWFiNqX9gW6X46vUFJOiOAMMQRNSSgLMskLn+1DrF+ZXf9HAJo2hcBrG4urDaGHMe2OiD+Msk8nmpqbLaqizCekWl8RJOJlDWBZyq7jdd+zfwxEe0eW+V12Z5S8pmky+pKROUKl1Pq/Tw/ibdcSU+rDlZZ3NdQBtM9PClXFTB20WmEUr8QrEWb42j6xbM8elXJq2mXLHlp/DRxJHEwuAjalRBtN9Vm3WJvzJxCoXKG6227CDuI5HDHxcskPdx1tWikfsvIzL0Bvu6jGNUbkefUZDwoWGbstNL2sqBksdTmlTRnMTGzNEWWJdR2hQL7DsAviQdpsxOcZhXZq9L4WesdRo7zWQVFnINhvso63xgjp4FKtMTIbehRbbyJ/wAwSOEysPSqgWC7gByGBSAskiD+qzaip+T/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwYHBAUI/8QALxAAAgIABAIJAgcAAAAAAAAAAQIDEQAEBSEGExIiMUFRcYGhwSNDFDJCU2Fi0f/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABsRAAICAwEAAAAAAAAAAAAAAAECAAMREjEh/9oADAMBAAIRAxEAPwDmqKIysQCFVRbO10ourNeeCSvlIrXLxySsPuyHo7+IUfJwVzy8hHCuzSOZJRe9DZQfc+oxRuBOAsjxNmYtSlh5GhzxyRyRvP1opuxeW/6usNwwtQd7BBObuEGzcmtdbWHVeyaRPlZAFnjkiY/djbpb+JU/BGATRmJhZDKwtWF0w7LF+WK1qnBHBGgZTUY9S1/NZvUsvFIyRwuoBYL1QQAaJYgEWf8AJcn1NOkikNyRsrxjxvZwPY+hwSwP6IsqKeNjMK4EmSikA68bGOQ95vdSfcegw78Icfrw9oeX078HJmRG7ylgVQBibFdtn+x8q78IcLlCdgQdmU3TDwOMnlwyC4XZD+24v0DD5GD1q41bkV2tWdkODN7q2padrsOcmjymS0zPNLzBd/XXckdIAKrXe5AB/g2SvxJ0clLKVpnYRxnvFbsR7D1waLLxKVMzs235EFb+BJ+Bg0cJlYDZVUdVbNAX2DFVcDA5Izljk9n/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Governor</div>
+                                                <div>Perfect Predator</div>
                                                 <div class="unlocked">20 Jul 2026</div>
                                             </div>
-                                            <div class="description">Restore all buildings in the Great Inagua village</div>
+                                            <div class="description">Get a perfect harpoon shot on a Great White Shark</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcCBAMFCP/EACoQAAIBAwIFAwQDAAAAAAAAAAECAwQFEQASEyExQVEyYYEGcZGxM0Kh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABoRAAIDAQEAAAAAAAAAAAAAAAEDAAIREiH/2gAMAwEAAhEDEQA/AOao4jKxCkKoGWZs4UeT7atxUomJjt1HVVjjlxdpAz7KB+zqEjcK3rChw0jGSUd8D0g/6fxpt/TtNCtVarHSNcae1C0rcq56J2SWSeQbQC2MhNxHTl8A6i1nA2XSoXOGKmWiMIUXCiq6MnpNtJUnyQR0+x1r5o2icBsHIyrDow7EaeV2t8UF5pLBVm4VFkuFDNvWomaThVUO/wDhfGdmQvtgg55HSVUia27HOZYmDRjyrZ3D4IB+ToUzsTXK4PkzMoloY3Ay8bFJPJB5qf2Pxozsd6kq6igqYZKgVVJRihqqanqDFJUwKcqYyO45ZXPPGgeJihyMEHkVPQjwdWlERIeB5IZAchTz5+zdvnTXoLDIq2Gh2G10vz0dcl1dqoMtNLFbqSpnLyJxRhpWH9UwThc9hoEWPh29mK4aVgqHvtX1H7EkD4OrOyNpeLUvJPIeZHTJ9z1/GpxQmVh6QAMAdAB4GilBUQa03Oz/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwYHAQQI/8QALBAAAgIABAQFAwUAAAAAAAAAAQIDEQAEEiEFBjFRE0FhcYEHFMEyQkORof/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABsRAQADAQEBAQAAAAAAAAAAAAIAAQMREiEy/9oADAMBAAIRAxEAPwDmlIjK+lK6WSdgo8yT2wWb7OG1i8TMONvEJ0JfoKsj3r2wW/C4foQ087Eyd9C1pHsSSfWhhv8Ap9yevFmizfE43Xh+Z+4gjcbgusRPQAsCDpIIFGjviGqNduaAW78mJcRykoCzCWFz/Ip1rfcrsR8HAJYzE9Eq3mGU2GHcYpP1H5DbIQRcR4Jl3OVhghTNxhGBV9NeIAwBIJXetgcT8VNw542NvEweL1DGmA/w/wB4A6dejHTNC/Kh44458tEZCUEcmiV1FsEaqPxRHyMUifnHhOTgjhyckkmWDNS5WR42iBWrXpRPQ779hiYROUJrzFEeRHY42dEEguJ2jY/scah8MPyMDyp87Ky2WffMdM7z5l1khfI5KZyg3bMSuWY2KJYsb6X6nfCbO4lTNZsRiNp5KjAAGne2qvcDbvjMeXiUqZmZtv0IK37En8YLHCZmGyhV2Vb2AvoLwjMj8ydNU/qn/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Old Ironsides</div>
-                                                <div class="unlocked">19 Jul 2026</div>
+                                                <div>Strike The Colors</div>
+                                                <div class="unlocked">20 Jul 2026</div>
                                             </div>
-                                            <div class="description">Perform 3 perfect braces</div>
+                                            <div class="description">Board a Lead Convoy ship</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+13 others...</div>
+                                            <div class="description ellipsis">+15 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1519,7 +1519,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2026, 19:18:59 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jul 2026, 21:23:46 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
